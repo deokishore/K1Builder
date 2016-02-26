@@ -26,11 +26,11 @@ public class ContactUsController {
 	private EmailService emailService;
 	
 
-	@RequestMapping(value = "/contactUs", method = RequestMethod.GET)
-	public ModelAndView contactUs(@RequestParam(value="source", required=false) String source) {
+	@RequestMapping(value = "/contacts", method = RequestMethod.GET)
+	public ModelAndView contacts(@RequestParam(value="source", required=false) String source) {
 		ClientInformationForm clientInformationForm = new ClientInformationForm();
 		clientInformationForm.setSourceSite(source);
-		ModelAndView mv = new ModelAndView("contactUs", "clientInformationForm", clientInformationForm);
+		ModelAndView mv = new ModelAndView("contacts", "clientInformationForm", clientInformationForm);
 		return mv;
 	}
 

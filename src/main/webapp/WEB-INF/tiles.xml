@@ -25,6 +25,26 @@
         <put-attribute name="body" value="/protected/services.jsp"/>
     </definition>
 
+    <!--  K1 Builder contacts -->
+    <definition name="contacts" extends="master.page">
+        <put-attribute name="body" value="/protected/contacts.jsp"/>
+    </definition>
+
+    <!--  K1 Builder ourHistory -->
+    <definition name="ourHistory" extends="master.page">
+        <put-attribute name="body" value="/protected/ourHistory.jsp"/>
+    </definition>
+
+    <!--  K1 Builder testmonials -->
+    <definition name="testmonials" extends="master.page">
+        <put-attribute name="body" value="/protected/testmonials.jsp"/>
+    </definition>
+
+    <!--  K1 Builder gallery -->
+    <definition name="gallery" extends="master.page">
+        <put-attribute name="body" value="/protected/gallery.jsp"/>
+    </definition>
+
 
 
 </tiles-definitions>
