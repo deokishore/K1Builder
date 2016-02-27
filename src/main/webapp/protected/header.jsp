@@ -1,7 +1,7 @@
 <div class="block1">
 	<div class="main">
     	<header>
-            <h1><center><a class="logo" href="/"></a>
+            <h1><center><a class="logo" href="/ "></a>
             	<span></span>
             </center></h1>
             <nav>
