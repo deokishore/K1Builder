@@ -2,9 +2,10 @@
 	<head>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 		<title>Galleriffic | Thumbnail rollover effects and slideshow crossfades</title>
+
 		<link rel="stylesheet" href="http://resources.bestnest.in/k1builders/css/galleriffic/basic.css" type="text/css" />
 		<link rel="stylesheet" href="http://resources.bestnest.in/k1builders/css/galleriffic/galleriffic-2.css" type="text/css" />
-		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
 
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 		<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/galleriffic/jquery.galleriffic.js"></script>

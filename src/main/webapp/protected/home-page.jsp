@@ -1,3 +1,20 @@
+<head>
+ <script>
+    	$(function(){
+			$(".gallery1 a").fancybox({
+				'overlayShow'	: false,
+				'transitionIn'	: 'elastic',
+				'transitionOut'	: 'elastic'
+			});
+			$(".social a").easyTooltip();
+		})
+		$(window).load(function(){
+			$().UItoTop({ easingType: 'easeOutQuart' });
+		})
+    </script>
+
+</head>
+
 <div class="block2">
     <!--==============================content================================-->
     <div class="main">

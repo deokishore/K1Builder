@@ -24,22 +24,10 @@
 	<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/easyTooltip.js"></script>
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/FF-cash.js"></script>
-    <!--<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.fancybox-1.3.4.pack.js"></script>-->
+    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.fancybox-1.3.4.pack.js"></script>
     <script src="http://resources.bestnest.in/k1builders/js/jquery.jscrollpane.min.js"></script>
     <script src="http://resources.bestnest.in/k1builders/js/jquery.ui.totop.js"></script>
-    <script>
-    	$(function(){
-			$(".gallery1 a").fancybox({
-				'overlayShow'	: false,
-				'transitionIn'	: 'elastic',
-				'transitionOut'	: 'elastic'
-			});
-			$(".social a").easyTooltip();			
-		})
-		$(window).load(function(){
-			$().UItoTop({ easingType: 'easeOutQuart' });
-		})
-    </script>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 	<!--[if lt IE 8]>
    <div style=' clear: both; text-align:center; position: relative;'>
      <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
