@@ -40,10 +40,7 @@ public class ContactUsController {
 		
 		clientInformationService.saveClientInformation(clientInformationForm);
 		this.emailService.sendClientEMail(clientInformationForm);
-		Locale cLocale = new Locale.Builder().setLanguage("en").setRegion("GB").build();
-		//this.emailService.sendSimpleMail("info@bestnest.in", "Deo Kishore", "deokishore@yahoo.com", "Hello", cLocale);
-		ModelAndView mv = new ModelAndView("thankYou", "contactUsForm", clientInformationForm);
-		
+		ModelAndView mv = new ModelAndView("contacts", "contactUsForm", clientInformationForm);
 		return mv;
 	}
 	

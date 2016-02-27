@@ -36,10 +36,10 @@ public class EmailService {
 	@Autowired
 	private TemplateEngine templateEngine;
 	
-	private static List<String> clientInfoList = Arrays.asList("deokishore@yahoo.com", "deo.kishore@tridenttechnologies.co.uk", "prajapatiankit48@gmail.com", "ankit.prajapati@tridenttechnologies.co.uk");
+	private static List<String> clientInfoList = Arrays.asList("deokishore@yahoo.com", "info@k1builders.co.uk", "kaloyanmishev@gmail.com", "prajapatiankit48@gmail.com");
 
 	private static int counter = 1;
-	
+
 	/*
 	 * Send HTML mail (simple)
 	 */
@@ -72,7 +72,7 @@ public class EmailService {
 //		}
 //	this.mailSender.send(preparators);
 	}
-	
+
 	/*
 	 * Send HTML mail (simple)
 	 */
@@ -91,7 +91,7 @@ public class EmailService {
 
 		Locale cLocale = new Locale.Builder().setLanguage("en").setRegion("GB").build();
 		Context ctx = new Context(cLocale);
-		ctx.setVariable("name", firstName + " " + lastName);
+		ctx.setVariable("name", firstName );
 		ctx.setVariable("sourceSite", sourceSite);
 		ctx.setVariable("email", clientInformationForm.getEmail() == null ? " No Email" : clientInformationForm.getEmail() );
 		ctx.setVariable("subject", clientInformationForm.getSubject() == null ? " No Subject " : clientInformationForm.getSubject());
@@ -104,14 +104,14 @@ public class EmailService {
 		final String htmlContent = templateEngine.process("email-for-tridentteam.html", ctx);
 		MimeMessagePreparator[] preparators = new MimeMessagePreparator[clientInfoList.size()];
 		int i = 0;
-		for (final String bestNestUserEmail : clientInfoList) {
+		for (final String k1BuildersUserEmail : clientInfoList) {
 			preparators[i++] = new MimeMessagePreparator() {
 				public void prepare(MimeMessage mimeMessage) throws Exception {
 					try {
 						final MimeMessageHelper message = new MimeMessageHelper(mimeMessage, true, "UTF-8");
 						message.setSubject(subject);
-						message.setTo(bestNestUserEmail);
-						message.setFrom("info@tridenttechnologies.co.uk", "Trident Technologies Customer Email");
+						message.setTo(k1BuildersUserEmail);
+						message.setFrom("info@k1builders.co.uk", "K1 Builders Customer Email");
 						message.setText(htmlContent, true /* isHtml */);
 					}catch (Exception e) {
 						System.out.println("Error while configuring email" + e);
@@ -120,7 +120,7 @@ public class EmailService {
 			};
 		}
 
-		logger.info("Sending Email to trident team... ");
+		logger.info("Sending Email to K1Builders team... ");
 		try {
 			this.mailSender.send(preparators);
 		} catch(Exception ex) {
@@ -133,9 +133,9 @@ public class EmailService {
 			// Prepare message using a Spring helper
 			final MimeMessage mimeMessage = this.mailSender.createMimeMessage();
 			final MimeMessageHelper message = new MimeMessageHelper(mimeMessage, "UTF-8");
-			message.setSubject(" Trident Technologies -  Customer Care");
+			message.setSubject(" K1Builder -  Customer Care");
 			try {
-				message.setFrom("info@tridenttechnologies.co.uk", " Trident Technologies -  Customer Care");
+				message.setFrom("info@k1builders.co.uk", " K1Builders -  Customer Care");
 			} catch (UnsupportedEncodingException ex) {
 				logger.error(" Error while sending email to cient: ", ex);
 			}
