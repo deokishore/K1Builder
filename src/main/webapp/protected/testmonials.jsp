@@ -1,12 +1,4 @@
-<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
-<%@ page isELIgnored="false"%>
-
-
-
-
 <!DOCTYPE html>
-
 
 <head>
     <title>Testmonials | The K1 Builders Ltd</title>
@@ -45,27 +37,6 @@
 	<![endif]-->
 </head>
 <body>
-<!--==============================header=================================-->
-<div class="block1">
-	<div class="main">
-    	<header>
-            <h1><center><a class="logo" href="home.html"></a>
-            	<span></span>
-            </center></h1>
-            <nav>
-                <ul class="sf-menu">
-                    <li class="current"><a href="home.html"><font color="#B5B5B5">home</font></a></li>
-                    <li><a href="aboutUs.html">about us</a></li>
-                    <li><a href="services.html">services</a></li>
-                    <li><a href="gallery.html">gallery</a></li>
-                    <li><a href="contact.html">contacts</a></li>
-                </ul>
-                <div class="clear"></div>
-            </nav>
-        </header>	
-    </div>
-</div>	
-<div class="block2 bg_fff">
     <!--==============================content================================-->
     <div class="main">
         <section id="content">
@@ -224,57 +195,4 @@ Customer in London, 13 November 2012 <br>
         </section>
     </div>
 </div>
-<!--==============================footer=================================-->
-<div class="block3">
-	<div class="main">
-        <footer>
-        	<div class="container_24">
-            	<div class="wrapper">
-                	<article class="grid_9">
-                    	<h4>our products</h4>
-                        <div class="wrapper">
-                        	<div class="grid_4 alpha">
-                            	<ul class="list1">
-                                    <li><h2><a href="services.html">BATHROOM</a></h2></li>
-                                    <li><h2><a href="services.html">WETROOM</a></h2></li>
-                                    <li><h2><a href="services.html">EN SUITES</a></h2></li>
-                                </ul>
-                            </div>
-                          <div class="grid_4 prefix_1 omega">
-                          		<ul class="list1">
-                                    <li><a href="services.html">KITCHENS</a></h2></li>
-                                    <li><a href="services.html">INTERIORS</a></h2></li>
-                                    <li><a href="services.html">EXTERIORS</a></h2></li>
-                                </ul>
-                          </div>
-                        </div>
-                    </article>
-                    <article class="grid_4 prefix_1">
-                    	<h4>about us</h4>
-                        <ul class="list1">
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="testmonials.html">testimonials</a></li>                        
-                        </ul>
-                    </article>
-                    <article class="grid_10 alpha">
-                       	<h4>trust us</h4>
-                            <ul class="list1">
-<span class="istrong">K1 Builders</span> has a proven reputation for quality and professional standards. 
-Our insurance, qualifications and professional memberships have been independently vetted. 
-And our work is monitored on an ongoing basis and feedback directly from our customers can be found here -
-                            </ul>
-                        <table border="0" width="100%" id="table1"><tr><td>
-		            <p align="right">
-                    <a href="#" title="Trust"><img src="http://resources.bestnest.in/k1builders/images/soc5.jpg" width="200" height="52" alt=""></a>
-                        </td></tr></table>
-                        </div>
-                    </article>
-                </div>
-            </div><center><font size="-4" color="#808080">Copyright © 2013 K1 Builders</font></center>
-        </footer>
-    </div>
-</div>
 </body>
-
-
-</html>

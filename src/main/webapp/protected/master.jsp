@@ -18,7 +18,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/scrool.css">
     <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/jquery.fancybox-1.3.4.css">
     <link rel="stylesheet" href="http://resources.bestnest.in/k1builders/css/ui.totop.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/style.css">
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery-1.6.1.min.js"></script>
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/superfish.js"></script>
 	<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.easing.1.3.js"></script>
@@ -46,8 +46,8 @@
        &nbsp;</a></div>
 <![endif]-->
     <!--[if lt IE 9]>
-   		<script type="text/javascript" src="js/html5.js"></script>
-    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
+   		<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/ie.css">
 	<![endif]-->
 </head>
 <!--/head-->
@@ -59,10 +59,10 @@
 	   <tiles:insertAttribute name="body" />
 
         <!--[if IE]>
-            <script src="<c:url value='/resources/js/bootstrap.min.ie.js' />"></script>
+            <script src="<c:url value='http://resources.bestnest.in/k1builders/js/bootstrap.min.ie.js' />"></script>
         <![endif]-->
         <!--[if !IE]><!-->
-          <!--  <script src="<c:url value='/resources/js/bootstrap.min.js' />"></script> -->
+          <!--  <script src="<c:url value='http://resources.bestnest.in/k1builders/js/bootstrap.min.js' />"></script> -->
         <!--<![endif]-->
 
         <tiles:insertAttribute name="footer" />

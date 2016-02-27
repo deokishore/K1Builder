@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-
+<html>
 <head>
     <title>About | K1 Builders Ltd</title>
     <meta charset="utf-8">
@@ -33,14 +33,12 @@
   </div>
 <![endif]-->
     <!--[if lt IE 9]>
-   		<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/html5.js"></script>
-    	<link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/ie.css">
+   		<script type="text/javascript" src="js/html5.js"></script>
+    	<link rel="stylesheet" type="text/css" media="screen" href="css/ie.css">
 	<![endif]-->
 </head>
 <body>
-
-    <!--==============================content================================-->
-    <div class="main">
+<div class="main">
         <section id="content">
             <div class="container_24">
                 <div class="wrapper stripe stripe_box1">
@@ -75,4 +73,5 @@ We pride ourselves on having high standards, whether it's simply a new bathroom 
         </section>
     </div>
 </div>
-<!--==============================footer=================================-->
+</body>
+</html>

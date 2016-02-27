@@ -8,16 +8,16 @@
                         <div class="wrapper">
                         	<div class="grid_4 alpha">
                             	<ul class="list1">
-                                    <li><h2><a href="services.html">BATHROOM</a></h2></li>
-                                    <li><h2><a href="services.html">WETROOM</a></h2></li>
-                                    <li><h2><a href="services.html">EN SUITES</a></h2></li>
+                                    <li><h2><a href="/services">BATHROOM</a></h2></li>
+                                    <li><h2><a href="/services">WETROOM</a></h2></li>
+                                    <li><h2><a href="/services">EN SUITES</a></h2></li>
                                 </ul>
                             </div>
                           <div class="grid_4 prefix_1 omega">
                           		<ul class="list1">
-                                    <li><a href="services.html">KITCHENS</a></h2></li>
-                                    <li><a href="services.html">INTERIORS</a></h2></li>
-                                    <li><a href="services.html">EXTERIORS</a></h2></li>
+                                    <li><a href="/services">KITCHENS</a></h2></li>
+                                    <li><a href="/services">INTERIORS</a></h2></li>
+                                    <li><a href="/services">EXTERIORS</a></h2></li>
                                 </ul>
                           </div>
                         </div>
@@ -25,8 +25,8 @@
                     <article class="grid_4 prefix_1">
                     	<h4>about us</h4>
                         <ul class="list1">
-                            <li><a href="services.html">services</a></li>
-                            <li><a href="testmonials.html">testimonials</a></li>                     
+                            <li><a href="/services">services</a></li>
+                            <li><a href="/testmonials">testimonials</a></li>
                         </ul>
                     </article>
                     <article class="grid_10 alpha">
