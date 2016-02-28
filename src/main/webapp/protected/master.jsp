@@ -15,10 +15,10 @@
     <meta name="Keywords" content="">
     <link rel="icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/scrool.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/scrool.css">
     <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/jquery.fancybox-1.3.4.css">
     <link rel="stylesheet" href="http://resources.bestnest.in/k1builders/css/ui.totop.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/style.css">
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery-1.6.1.min.js"></script>
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/superfish.js"></script>
 	<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.easing.1.3.js"></script>

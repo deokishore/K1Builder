@@ -61,7 +61,8 @@
                                   <strong>We will be in touch soon.</strong>
                               </div>
                               <div class="buttons2">
-                                  <button type="submit" name="your_name" value="your_value">Send</button>
+                                  <button  type="submit" name="your_name" value="your_value" style="float: right; height:40px;width:100px">Send</button>
+
                               </div>
                           </fieldset>
                       </form:form>
