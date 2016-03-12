@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="894495b3-0f00-43f9-8cc9-aef052a7ae60" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/k1builder-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/full/bathroom-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/bathroom/small/bathroom-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/floor/full/floor-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/floor/small/floor-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/full/kitchen-image-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/kitchen/small/kitchen-image-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/washroom/full/washroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/washroom/full/washroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/washroom/full/washroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/washroom/small/washroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/washroom/small/washroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/portfolio/washroom/small/washroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_square/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/dark_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/default_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/sprite_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/sprite_prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/sprite_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/default/sprite_y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/facebook/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/prettyPhoto/light_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/controller/AboutUsController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/controller/ContactUsController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/controller/GalleryController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/controller/HomePageController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/controller/ServicesController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/controller/TestmonialsController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/dao/ClientInformationDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/domain/ClientInformation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/form/ClientInformationForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/repository/ClientInformationRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/service/ClientInformationService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/service/EmailService$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/service/EmailService$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/service/EmailService$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/k1builder/service/EmailService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/controller/AboutUsController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/controller/ContactUsController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/controller/GalleryController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/controller/HomePageController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/controller/ServicesController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/controller/TestmonialsController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/dao/ClientInformationDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/domain/ClientInformation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/form/ClientInformationForm.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/repository/ClientInformationRepository.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/service/ClientInformationService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/service/EmailService$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/service/EmailService$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/service/EmailService$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/com/k1builder/service/EmailService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/activation-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/akka-actor_2.10-2.3.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/antlr-2.7.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/asm-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/aspectjrt-1.7.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/cglib-2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/commons-digester-2.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/commons-fileupload-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/commons-io-1.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/commons-lang-2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/config-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/dom4j-1.6.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/guava-10.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/hibernate-core-5.0.7.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/hibernate-entitymanager-5.0.7.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jacks_2.9.2-2.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jackson-annotations-2.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jackson-core-2.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jackson-databind-2.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jackson-jaxrs-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jandex-2.0.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/javassist-3.18.1-GA.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jcl-over-slf4j-1.7.13.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jsr305-1.3.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/log4j-1.2.16.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/mail-1.4.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/mysql-connector-java-5.1.14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/ognl-3.0.6.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/scala-compiler-2.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/scala-library-2.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/scalap-2.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/slf4j-api-1.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/slf4j-log4j12-1.7.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-data-commons-1.11.2.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-data-jpa-1.9.2.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-orm-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-oxm-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-security-acl-4.0.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-security-config-4.0.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-security-core-4.0.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-security-taglibs-4.0.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-security-web-4.0.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-support-2.0.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/thymeleaf-2.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/thymeleaf-layout-dialect-1.0.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/thymeleaf-spring3-2.1.3.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/tiles-api-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/tiles-core-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/tiles-jsp-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/tiles-servlet-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/tiles-template-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/unbescape-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/lib/xml-apis-1.0.b2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/caption.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/loaderWhite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/nextPageArrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/nextPageArrowWhite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/prevPageArrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/prevPageArrowWhite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img1_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img2_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img3_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img4_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img5_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img6_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img7_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img8_8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/1page_img9_9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/2page_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/2page_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/3page_img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/3page_img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/3page_img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/3page_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/3page_img5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/back_to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slide-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/banner/slider-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/body_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/fancybox/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/fancybox/fancy_close.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/indice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/k1builder-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/list3_li.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/logo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/marker1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/full/bathroom-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/bathroom/small/bathroom-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/floor/full/floor-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/floor/small/floor-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/full/kitchen-image-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/kitchen/small/kitchen-image-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/washroom/full/washroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/washroom/full/washroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/washroom/full/washroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/washroom/small/washroom-image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/washroom/small/washroom-image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/portfolio/washroom/small/washroom-image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_rounded/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_square/contentPattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/dark_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/default_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/sprite_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/sprite_prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/sprite_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/default/sprite_y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/contentPatternBottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/contentPatternLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/contentPatternRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/contentPatternTop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/facebook/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_rounded/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_rounded/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_rounded/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_rounded/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_square/btnNext.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_square/btnPrevious.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_square/default_thumbnail.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_square/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/prettyPhoto/light_square/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/quote_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/scrool_drag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/bg_img4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/menu1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/menu2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/menu3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/menu4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/slider-3_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/slider-3_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/slider-3_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/images/slider-3_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/slide/slider-8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc5-old.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/soc5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/sub_li.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/sub_li1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/sub_marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/sub_ul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/track.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/vert_stripe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire/surefirebooter195974615906101573.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/footer_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/gallery_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/header_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/home_002dpage_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/master_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_10_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lambdaworks_jacks_2_9_2_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_10_2_3_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_web_thymeleaf_thymeleaf_layout_dialect_1_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_io_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_api_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_core_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_jsp_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_servlet_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_template_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_7_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_0_7_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scalap_2_9_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_9_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_4_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_4_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_4_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_support_2_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring3_2_1_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/K1Builder.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/database.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-for-client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-for-directors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-for-tridentteam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-inlineimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mail/email-withattachment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/META-INF/database.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/META-INF/persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-for-client.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-for-directors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-for-tridentteam.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-inlineimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/classes/mail/email-withattachment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/i18n_en.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/javamail.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/spring/javamail.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/spring/spring-jpa.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/spring/spring-mail.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/spring/spring-mvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/spring/spring-security.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/spring/spring.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/tiles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/about-us.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/contacts.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/gallery.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/home-page.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/index-7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/master.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/ourHistory.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/services.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/protected/testmonials.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/public/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/public/template/footer-tamaar.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/public/template/header-tamaar.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/public/template/master-tamaar.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/galleriffic-1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/galleriffic-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/galleriffic-3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/galleriffic-4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/galleriffic-5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/jush.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/galleriffic/white.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/grid_24.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/jquery.fancybox-1.3.4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/prettyPhoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/scrool.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/scrool2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/superfish.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/css/ui.totop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/fancybox/fancy_title_over.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/fancybox/fancybox-x.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/fancybox/fancybox-y.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/images/fancybox/fancybox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/FF-cash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/easyTooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/galleriffic/jquery.galleriffic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/galleriffic/jquery.history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/galleriffic/jquery.opacityrollover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/galleriffic/jush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery-1.6.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.fancybox-1.3.4.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.jscrollpane.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jquery.ui.totop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/jssor.slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/superfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/k1builder/resources/js/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire/surefire2781309624715934803tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire/surefire3660818412011027870tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/conf/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/conf/log4j.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2016-03-12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/footer_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/gallery_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/header_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/home_002dpage_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/protected_/master_jsp.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-10.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-01.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-02.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-02.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-03.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-03.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-04.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-05.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-05.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-06.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-06.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-07.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/banner/slide-image-07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/protected/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/protected/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/protected/gallery.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/protected/gallery.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/protected/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/protected/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/protected/home-page.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/protected/home-page.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/protected/master.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/protected/master.jsp" />
+    </list>
+    <ignored path="K1Builder.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="K1Builder" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/jssor.slider.min.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/protected/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/protected/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/protected/master.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/protected/home-page.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/protected/gallery.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="K1Builder" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="K1Builder" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1612" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K1Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K1Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K1Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K1Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="K1Builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Saurabh/IdeaProjects/K1Builder/src/main/webapp/protected/master.jsp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saurabh\IdeaProjects\K1Builder\src\main\webapp\resources\images\portfolio\washroom\small" />
+      <recent name="C:\Users\Saurabh\IdeaProjects\K1Builder\src\main\webapp\resources\images\portfolio\washroom\full" />
+      <recent name="C:\Users\Saurabh\IdeaProjects\K1Builder\src\main\webapp\resources\images\portfolio\kitchen\small" />
+      <recent name="C:\Users\Saurabh\IdeaProjects\K1Builder\src\main\webapp\resources\images\portfolio\kitchen\full" />
+      <recent name="C:\Users\Saurabh\IdeaProjects\K1Builder\src\main\webapp\resources\images\portfolio\floor\small" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.K1Buider">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="K1Builder" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="K1Buider" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Maven.K1Buider" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="894495b3-0f00-43f9-8cc9-aef052a7ae60" name="Default" comment="" />
+      <created>1457584912839</created>
+      <option name="number" value="Default" />
+      <updated>1457584912839</updated>
+    </task>
+    <task id="LOCAL-00001" summary="I have made the changes in the homepage &amp; changed the Image Slider&#10;&#10;&#10;Saurabh Middha&#10;">
+      <created>1457674877735</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1457674877735</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14724311" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22584857" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23809524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I have made the changes in the homepage &amp; changed the Image Slider&#10;&#10;&#10;Saurabh Middha&#10;" />
+    <MESSAGE value="Hi,&#10;&#10;I have changed the layout of homepage &amp; gallery page. I have removed the old code &amp; created my own code. Other pages will not work properly as i have commented out style.css to pick my style. We can change rest of the pages lateron.&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hi,&#10;&#10;I have changed the layout of homepage &amp; gallery page. I have removed the old code &amp; created my own code. Other pages will not work properly as i have commented out style.css to pick my style. We can change rest of the pages lateron.&#10;&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jssor.slider.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33202356">
+          <caret line="1" column="3064" selection-start-line="1" selection-start-column="3063" selection-end-line="1" selection-end-column="3064" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/protected/about-us.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/prettyPhoto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.725664">
+          <caret line="290" column="5" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/protected/master.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6176991">
+          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48318583">
+          <caret line="2475" column="13" selection-start-line="2475" selection-start-column="13" selection-end-line="2475" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/protected/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57168144">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/protected/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.007079646">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/protected/home-page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.401084">
+          <caret line="146" column="50" selection-start-line="146" selection-start-column="50" selection-end-line="146" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/protected/gallery.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57876104">
+          <caret line="122" column="101" selection-start-line="122" selection-start-column="93" selection-end-line="122" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>K1Builder</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

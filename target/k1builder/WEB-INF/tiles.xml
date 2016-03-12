@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN"
+        "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<tiles-definitions>
+
+    <!--  Master Start -->
+    <definition name="master.page" template="/protected/master.jsp">
+        <put-attribute name="header" value="/protected/header.jsp"/>
+        <put-attribute name="footer" value="/protected/footer.jsp"/>
+    </definition>
+    <!--  Master End -->
+
+    <!--  Home Page -->
+    <definition name="homePage" extends="master.page">
+        <put-attribute name="body" value="/protected/home-page.jsp"/>
+    </definition>
+
+    <!--  About K1 Builders -->
+    <definition name="aboutUs" extends="master.page">
+        <put-attribute name="body" value="/protected/about-us.jsp"/>
+    </definition>
+
+    <!--  K1 Builder services -->
+    <definition name="services" extends="master.page">
+        <put-attribute name="body" value="/protected/services.jsp"/>
+    </definition>
+
+    <!--  K1 Builder contacts -->
+    <definition name="contacts" extends="master.page">
+        <put-attribute name="body" value="/protected/contacts.jsp"/>
+    </definition>
+
+    <!--  K1 Builder ourHistory -->
+    <definition name="ourHistory" extends="master.page">
+        <put-attribute name="body" value="/protected/ourHistory.jsp"/>
+    </definition>
+
+    <!--  K1 Builder testmonials -->
+    <definition name="testmonials" extends="master.page">
+        <put-attribute name="body" value="/protected/testmonials.jsp"/>
+    </definition>
+
+    <!--  K1 Builder gallery -->
+    <definition name="gallery" extends="master.page">
+        <put-attribute name="body" value="/protected/gallery.jsp"/>
+    </definition>
+
+
+
+</tiles-definitions>
