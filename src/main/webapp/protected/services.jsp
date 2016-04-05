@@ -154,15 +154,7 @@ The couple have two energetic sons, aged four and eight, and ”needed a decent-
                             <li>Masonry & Bricklaying</li>
                             <li>Painting & Decorating</Li>
                             <li>Electrician & Handyman</li>
-                     <li><b>Price Guide</b><br>
-                     - Lofts from &pound;13,000.00<br>
-                     - Extensions from &pound;5,000.00<br>
-                     - Bathrooms from &pound;1,000.00<br>
-                     - Kitchens from &pound;500.00<br>
-                     - Tiling from &pound;20.00/sq meter<br>
-                     - Plastering from &pound;7.00/sq meter<br>
-                     - Trades men from &pound;130.00 a day<br>
-                     - Handyman from &pound;30.00 per hour</li>
+
                         </ul>
                     </article>
                     <div class="clear"></div>

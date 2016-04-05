@@ -8,8 +8,8 @@
 						   http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-4.2.xsd
 						   http://www.springframework.org/schema/data/jpa http://www.springframework.org/schema/data/jpa/spring-jpa-1.8.xsd">
 
-    <!-- JPA Configurations -->
-    <jee:jndi-lookup id="myContactDataSource" jndi-name="jdbc/tamaarDataSource" lookup-on-startup="false"
+    <!-- JPA Configurations !!!-->
+    <jee:jndi-lookup id="myContactDataSource" jndi-name="jdbc/k1BuilderDataSource" lookup-on-startup="false"
                      proxy-interface="javax.sql.DataSource"/>
 
     <bean id="transactionManager" class="org.springframework.orm.jpa.JpaTransactionManager">

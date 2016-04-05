@@ -18,13 +18,11 @@
 
                         </span>-->
                         <dl class="adress">
-                          <dt><strong>47 Vermeer Court</strong></dt>
-                          <dd><span>1 Rembrandt Close</dd>
+                          <dt><strong>44 Glenlea Road</strong></dt>
                           <dd>London</dd>
-                          <dd>E14 3XA</dd>
-                          <!--<dd>T: 0208 8530293</dd>-->
-                          <dd>M: +44- 7561420709</dd>
-                          <dd>E: info@tridenttechnologies.co.uk</span></dd>
+                          <dd>SE9 1DZ</dd>
+                          <dd>Mobile: +44 7957 000714</dd>
+                          <dd>E-mail: contactus@k1builders.co.uk</span></dd>
                         </dl>
                     </article>
                     <article class="grid_12 prefix_2">
@@ -34,7 +32,6 @@
                         <c:if test="${not empty clientInformationForm.clientInformationId}">
                             	<h2>Thank you for contacting us, we will be in touch soon</h2>
                         </c:if>
-
 
                         <form:form id="contact-form" action="${pageContext.request.contextPath}/contactUsSave.htm" modelAttribute="clientInformationForm">
 

@@ -1,26 +1,20 @@
-<header id="header">
-        <nav class="navbar navbar-inverse" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.html"><img src="resources/images/k1builder-logo.png" alt="logo" width="200" height="62"></a>
-                </div>
+<div class="block1">
+	<div class="main">
+    	<header>
+            <h1><center><a class="logo" href="/ "></a>
+            	<span></span>
+            </center></h1>
+            <nav>
 
-                <div class="collapse navbar-collapse navbar-right">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="/">Home</a></li>
-                        <li><a href="/aboutUs">About Us</a></li>
-                        <li><a href="/services">Services</a></li>
-                        <li><a href="/gallery">Gallery</a></li>
-                        <li><a href="/contacts">Contact</a></li>
-                    </ul>
-                </div>
-            </div><!--/.container-->
-        </nav><!--/nav-->
-
-    </header><!--/header-->
+                <ul class="sf-menu">
+                    <li class="current"><a href="/"><font color="#35b88f">home</font></a></li>
+                    <li><a href="/aboutUs">about us</a></li>
+                    <li><a href="/services">services</a></li>
+                    <li><a href="/gallery">gallery</a></li>
+                    <li><a href="/contacts">contacts</a></li>
+                </ul>
+                <div class="clear"></div>
+            </nav>
+        </header>
+    </div>
+</div>
