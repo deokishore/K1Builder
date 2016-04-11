@@ -1,0 +1,82 @@
+
+#gallery {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #e2e2e2;
+    float: left;
+    margin-right: 20px;
+    padding: 12px;
+    width: 65%;
+}
+.captionOrange, .captionBlack {
+    border-radius: 4px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+.captionOrange {
+    background: rgba(235, 81, 0, 0.6) none repeat scroll 0 0;
+}
+.captionBlack {
+    background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+    font-size: 16px;
+}
+a.captionOrange, A.captionOrange:active, A.captionOrange:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+a.captionOrange:hover {
+    background-color: rgba(238, 238, 238, 0.7);
+    color: #eb5100;
+    text-decoration: underline;
+}
+.jssora02l, .jssora02r, .jssora02ldn, .jssora02rdn {
+    background: rgba(0, 0, 0, 0) url("http://images.bestnest.in/slideshow/a02.png") no-repeat scroll 0 0;
+    cursor: pointer;
+    display: block;
+    overflow: hidden;
+    position: absolute;
+}
+.jssora02l {
+    background-position: -3px -33px;
+}
+.jssora02r {
+    background-position: -63px -33px;
+}
+.jssora02l:hover {
+    background-position: -123px -33px;
+}
+.jssora02r:hover {
+    background-position: -183px -33px;
+}
+.jssora02ldn {
+    background-position: -243px -33px;
+}
+.jssora02rdn {
+    background-position: -303px -33px;
+}
+.jssort03 .w, .jssort03 .pav:hover .w {
+    border: 1px dashed white;
+    height: 30px;
+    position: absolute;
+    width: 60px;
+}
+* html .jssort03 .w {
+    height: 32px;
+    width: 62px;
+}
+.jssort03 .pdn .w, .jssort03 .pav .w {
+    border-style: solid;
+}
+.jssort03 .c {
+    height: 32px;
+    opacity: 0.45;
+    transition: opacity 0.6s ease 0s;
+    width: 62px;
+}
+.jssort03 .p:hover .c, .jssort03 .pav .c {
+    opacity: 0;
+}
+.jssort03 .p:hover .c {
+    transition: none 0s ease 0s ;
+}

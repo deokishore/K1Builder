@@ -10,13 +10,7 @@
 	<link rel="shortcut icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" href="http://resources.bestnest.in/k1builders/css/ui.totop.css">
     <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/scrool2.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/style.css">
     <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery-1.6.1.min.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/superfish.js"></script>
-	<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/easyTooltip.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/FF-cash.js"></script>
-    <script src="http://resources.bestnest.in/k1builders/js/jquery.ui.totop.js"></script>
     <script src="http://resources.bestnest.in/k1builders/js/jquery.jscrollpane.min.js"></script>
     <script>
     	$(function(){
@@ -40,7 +34,9 @@
 </head>
 <body>
 
-<div class="block2 bg_fff">
+
+
+<div class="block2 bg_fff" style="padding-top:35px;">
     <!--==============================content================================-->
     <div class="main">
         <section id="content">
@@ -57,14 +53,14 @@
                                         <div class="title">BATHROOM REPAIR & REMODEL</div>
                                         <p>If your bathroom is tired and outdated, call on K1 Builders for a complete bathroom remodel and renovation. Your local home improvement professional can help install tile flooring, knock out walls and install the perfect vanity. From painting to plumbing, K1 Builders is the one-call solution to your bathroom and remodel project.</p>
                                         <ul class="list2">
-                                        
+
 <!--    ** List to relivance of section
                                             <li>Functional space planning and design</li>
                                             <li>Fabric and furniture selection / placement</li>
                                             <li>Drapery and window treatments</a></li>
-                                            <li>General, task, accent, and mood lighting</li>   
--->                             	
-                                        </ul>    
+                                            <li>General, task, accent, and mood lighting</li>
+-->
+                                        </ul>
                                     </div>
                               </div>
                               <div class="extra_container services">
@@ -77,10 +73,10 @@ It is a myth that tanking is the answer to all wetroom issues; it is vital that 
                                         <ul class="list2">
 <!--   ** List to relivance of section
                                            <li>Wall finishes (paint, stone or ceramic tile, wall covering)</li>
-                                           <li>Custom stairs, balusters and handrails</li> 
- -->                              	
+                                           <li>Custom stairs, balusters and handrails</li>
+ -->
                                         </ul>
-                                        
+
                                     </div>
                               </div>
                               <div class="extra_container services">
@@ -99,30 +95,30 @@ The couple have two energetic sons, aged four and eight, and ”needed a decent-
                                             <li>Functional space planning and design</li>
                                             <li>Fabric and furniture selection / placement</li>
                                             <li>Drapery and window treatments</a></li>
-                                            <li>General, task, accent, and mood lighting</li>  
--->                              	
-                                        </ul>    
+                                            <li>General, task, accent, and mood lighting</li>
+-->
+                                        </ul>
                                     </div>
                               </div>
                               <div class="extra_container services m_bottom_zero">
                                     <figure><img src="http://resources.bestnest.in/k1builders/images/3page_img4.jpg" width="113" height="111" alt=""></figure>
                                     <div>
                                         <div class="title">KITCHENS REPAIR REFACE & REMODEL</div>
-                                        <p>It's time to get rid of that drip-catching bucket under your kitchen sink. Whether your pipes need total replacement or just tightening, here’s how to put an end to the leaks. We'll show you how to find the leak, then fix it for good. With K1 Builders designing the kitchen of your dreams has never 
-                                        been easier. Whether you prefer the antique look and feel of a 
-                                        traditional kitchen with elegantly carved moldings, or the chic 
-                                        sophistication of marble and chrome finishes, we can deliver the 
-                                        kitchen style of your choice.We have a dedicated team of highly 
-                                        skilled tradesmen to ensure your kitchen is built to the highest 
-                                        standard our service includes: plumbing and electrical work, wall 
+                                        <p>It's time to get rid of that drip-catching bucket under your kitchen sink. Whether your pipes need total replacement or just tightening, here’s how to put an end to the leaks. We'll show you how to find the leak, then fix it for good. With K1 Builders designing the kitchen of your dreams has never
+                                        been easier. Whether you prefer the antique look and feel of a
+                                        traditional kitchen with elegantly carved moldings, or the chic
+                                        sophistication of marble and chrome finishes, we can deliver the
+                                        kitchen style of your choice.We have a dedicated team of highly
+                                        skilled tradesmen to ensure your kitchen is built to the highest
+                                        standard our service includes: plumbing and electrical work, wall
                                         and floor tiling and plastering.</p>
                                         <ul class="list2">
 <!--   ** List to relivance of section
 
                                            <li>Wall finishes (paint, stone or ceramic tile, wall covering)</li>
-                                           <li>Custom stairs, balusters and handrails</li>   
--->                            	
-                                        </ul>    
+                                           <li>Custom stairs, balusters and handrails</li>
+-->
+                                        </ul>
                                     </div>
                               </div>
                               <div class="extra_container services m_bottom_zero">
@@ -134,13 +130,13 @@ The couple have two energetic sons, aged four and eight, and ”needed a decent-
 <!--   ** List to relivance of section
 
                                            <li>Wall finishes (paint, stone or ceramic tile, wall covering)</li>
-                                           <li>Custom stairs, balusters and handrails</li>   
--->                            	
+                                           <li>Custom stairs, balusters and handrails</li>
+-->
                                         </ul>
                                     </div>
                               </div>
                             </div>
-                       </div>   
+                       </div>
                   	</article>
                     <article class="grid_7 prefix_2">
                         <h2>services list</h2>

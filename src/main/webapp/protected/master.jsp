@@ -4,54 +4,59 @@
 
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>K1 Builders ltd uk</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <meta name="Keywords" content="">
+        <meta name="description" content="K1 Builders offers affordable building services in London, extensions, kitchen & bathroom installation, refurbishments">
+        <meta name="author" content="Trident Technologies">
+        <title>K1 Builders ltd uk</title>
  <!--
  Website by Trident Copyright 2016
  -->
-    <meta charset="utf-8">
-    <meta name="Description" content=" K1 Builders offers affordable building services in London, extensions, kitchen & bathroom installation, refurbishments">
-    <meta name="Keywords" content="">
-    <link rel="icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/scrool.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/jquery.fancybox-1.3.4.css">
-    <link rel="stylesheet" href="http://resources.bestnest.in/k1builders/css/ui.totop.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/style.css">
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery-1.6.1.min.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/superfish.js"></script>
-	<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/easyTooltip.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/FF-cash.js"></script>
-    <script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/jquery.fancybox-1.3.4.pack.js"></script>
-    <script src="http://resources.bestnest.in/k1builders/js/jquery.jscrollpane.min.js"></script>
-    <script src="http://resources.bestnest.in/k1builders/js/jquery.ui.totop.js"></script>
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-	<!--[if lt IE 8]>
-   <div style=' clear: both; text-align:center; position: relative;'>
-     <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
-       &nbsp;</a></div>
-<![endif]-->
-    <!--[if lt IE 9]>
-   		<script type="text/javascript" src="http://resources.bestnest.in/k1builders/js/html5.js"></script>
-    	<link rel="stylesheet" type="text/css" media="screen" href="http://resources.bestnest.in/k1builders/css/ie.css">
-	<![endif]-->
+
+    <!-- CSS Files -->
+        <link href="/resources/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/resources/css/font-awesome.min.css" rel="stylesheet">
+        <link href="/resources/css/animate.min.css" rel="stylesheet">
+        <link href="/resources/css/prettyPhoto.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/scrool.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/jquery.fancybox-1.3.4.css">
+        <link rel="stylesheet" type="text/css" href="http://resources.bestnest.in/css/top-slider.css" />
+
+        <!--<link rel="stylesheet" type="text/css" media="screen" href="/resources/css/style.css">-->
+        <link rel="stylesheet" type="text/css" media="screen" href="/resources/css/main.css">
+
+        <link href="css/responsive.css" rel="stylesheet">
+        <!--[if lt IE 9]>
+        <script src="/resources/js/html5shiv.js"></script>
+        <script src="/resources/js/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- K1 Builder Favicon -->
+        <link rel="icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="http://resources.bestnest.in/k1builders/images/favicon.ico" type="image/x-icon" />
+        <!-- End K1 Builder Favicon -->
+
+        <!-- JS Files -->
+        <script src="/resources/js/jquery.js"></script>
+        <script src="/resources/js/bootstrap.min.js"></script>
+        <script src="/resources/js/jquery.prettyPhoto.js"></script>
+        <script src="/resources/js/jquery.isotope.min.js"></script>
+        <script src="/resources/js/main.js"></script>
+        <script src="/resources/js/wow.min.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery-1.6.1.min.js"></script>
+        <script type="text/javascript" src="/resources/js/jquery.fancybox-1.3.4.pack.js"></script>
+        <script src="/resources/js/jquery.jscrollpane.min.js"></script>
 </head>
 <!--/head-->
 
-    <body>
+    <body class="homepage">
 
        <tiles:insertAttribute name="header" />
 
 	   <tiles:insertAttribute name="body" />
-
-        <!--[if IE]>
-            <script src="<c:url value='http://resources.bestnest.in/k1builders/js/bootstrap.min.ie.js' />"></script>
-        <![endif]-->
-        <!--[if !IE]><!-->
-          <!--  <script src="<c:url value='http://resources.bestnest.in/k1builders/js/bootstrap.min.js' />"></script> -->
-        <!--<![endif]-->
 
         <tiles:insertAttribute name="footer" />
     </body>

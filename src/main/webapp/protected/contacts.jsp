@@ -4,69 +4,55 @@
 
 <script type="text/javascript" src="/resources/js/forms.js"></script>
 
-<div class="block2 bg_fff">
-    <!--==============================content================================-->
-    <div class="main">
-        <section id="content">
-            <div class="container_24">
-                <div class="wrapper indent stripe_box1">
-                    <article class="grid_10">
-                    	<h2>contact info</h2>
-                        <h3 class="ind1">how to find us</h3>
-                       <!-- <span class="map_wrapper">
-                        <iframe id="map_canvas"  src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=127+Shooters+Hill+Road,+Lewisham+SE3,+United+Kingdom&amp;aq=0&amp;ie=UTF8&amp;hq=&amp;hnear=127+Shooters+Hill+Rd,+Greenwich,+Greater+London+SE3+8,+United+Kingdom&amp;t=m&amp;z=14&amp;vpsrc=0&amp;ll=51.474982,0.025406&amp;output=embed"></iframe>
 
-                        </span>-->
-                        <dl class="adress">
-                          <dt><strong>44 Glenlea Road</strong></dt>
-                          <dd>London</dd>
-                          <dd>SE9 1DZ</dd>
-                          <dd>Mobile: +44 7957 000714</dd>
-                          <dd>E-mail: contactus@k1builders.co.uk</span></dd>
-                        </dl>
-                    </article>
-                    <article class="grid_12 prefix_2">
-                    	<h2>e-mail us</h2>
-                        <h3 class="ind1">all enquiries welcome</h3>
 
-                        <c:if test="${not empty clientInformationForm.clientInformationId}">
-                            	<h2>Thank you for contacting us, we will be in touch soon</h2>
-                        </c:if>
-
-                        <form:form id="contact-form" action="${pageContext.request.contextPath}/contactUsSave.htm" modelAttribute="clientInformationForm">
-
-                         <input id="sourceSite" name="sourceSite" type="hidden" value="www.k1builders.co.uk"/>
-
-                         <fieldset>
-                              <label class="name">
-                                  <input type="text" name="firstName" value="Name">
-                                  <span class="error">*This is not a valid name.</span> <span class="empty">*This field is required.</span>
-                              </label>
-                              <label class="email">
-                                      <input type="text" name="email" value="E-mail">
-                                  <span class="error">*This is not a valid email address.</span> <span class="empty">*This field is required.</span>
-                              </label>
-                              <label class="phone">
-                                      <input type="text" name="mobilePhoneNumber" value="Phone">
-                                  <span class="error">*This is not a valid phone number.</span> <span class="empty">*This field is required.</span>
-                              </label>
-                              <label class="message">
-                                      <textarea name="message" id="message">Message</textarea>
-                                  <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span>
-                              </label>
-                              <div class="success">Contact form submitted!<br>
-                                  <strong>We will be in touch soon.</strong>
-                              </div>
-                              <div class="buttons2">
-                                  <button  type="submit" name="your_name" value="your_value" style="float: right; height:40px;width:100px">Send</button>
-
-                              </div>
-                          </fieldset>
-                      </form:form>
-
-                    </article>
+ <section id="contact-info" style="padding-bottom:0;">
+        <div class="center">
+            <h2>Contact Us!!</h2>
+        </div>
+        <div class="gmap-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 map-content">
+                        <ul class="row">
+                            <li class="col-sm-6">
+                                <address>
+                                    <h5>Office Address</h5>
+                                    <p>44 Glenlea Road <br>
+                                    London, SE9 1DZ</p>
+                                    <p>Mobile:44 7957 000714 <br>
+                                    Email:contactus@k1builders.co.uk</p>
+                                </address>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-8 col-sm-6">
+                         <div class="contact-wrap">
+                            <div class="status alert alert-success" style="display: none"></div>
+                            <form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="#">
+                                    <div class="form-group">
+                                        <label>Name *</label>
+                                        <input type="text" name="name" class="form-control" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Email *</label>
+                                        <input type="email" name="email" class="form-control" required="required">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Phone</label>
+                                        <input type="number" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Message *</label>
+                                        <textarea name="message" id="message" required="required" class="form-control" rows="8"></textarea>
+                                    </div>
+                                     <div class="form-group">
+                                        <button type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit Message</button>
+                                    </div>
+                            </form>
+                        </div><!--/.row-->
+                    </div>
                 </div>
             </div>
-        </section>
-    </div>
-</div>
+        </div>
+ </section>
