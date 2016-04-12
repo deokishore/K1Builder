@@ -2592,6 +2592,8 @@ shortcodes page css
     padding: 20px;
 }
 
+.list3 {padding:0; margin:20px auto;}
+
 .list3 li {
     background: rgba(0, 0, 0, 0) url("../images/list3_li.png") repeat-x scroll 0 bottom;
     margin-bottom: 5px;
@@ -2599,13 +2601,6 @@ shortcodes page css
     list-style:none outside none;
 }
 
-.container_24 .grid_15 {
-    width: 590px;
-}
-
-.container_24 .grid_7 {
-    width: 270px;
-}
 
 
 
