@@ -47,12 +47,12 @@
                     								<ul class="thumbs noscript">
                     									<!-- Bathroom Image 1 Start-->
                     									<li>
-                    										<a class="thumb" name="leaf" href="http://images.bestnest.in/k1builders/gallery/bath_1big.jpg" title="Kitchen Repairing">
-                    											<img src="http://images.bestnest.in/k1builders/gallery/bath_1small.jpg" alt="Bathroom Repair Small" />
+                    										<a class="thumb" name="leaf" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0042.jpg" title="Kitchen Repairing">
+                    											<img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0042.jpg" alt="Bathroom Repair Small" />
                     										</a>
                     										<div class="caption">
                     											<div class="download">
-                    												<a href="http://images.bestnest.in/k1builders/gallery/bath_1big2.jpg "></a>
+                    												<a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0047.jpg "></a>
                     											</div>
 
 
@@ -60,12 +60,12 @@
                     									</li>
                     										<!-- Bathroom Image 3 Start-->
                                                         <li>
-                                                            <a class="thumb" name="bigleaf" href="http://images.bestnest.in/k1builders/gallery/bath_3big.jpg" title="Bath Room Image 3 big">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/bath_3small.jpg" alt="Bath Room Image 3 Small" />
+                                                            <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0047.jpg" title="Bath Room Image 3 big">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0047.jpg" alt="Bath Room Image 3 Small" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/bath_3big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0047.jpgg"></a>
                                                                 </div>
                                                                 <div class="image-title"><b>BATHROOM PLUMBING</b></div>
                                                                 <div class="image-desc">Description</div>
@@ -76,12 +76,12 @@
 
                                                         <!-- Bathroom Image 4 Small -->
                                                         <li>
-                                                            <a class="thumb" name="lizard" href="http://images.bestnest.in/k1builders/gallery/bath_4big.jpg" title="bathroom medium Image">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/bath_4small.jpg" alt="Bathroom Small Image" />
+                                                            <a class="thumb" name="lizard" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0051.jpg" title="bathroom medium Image">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0051.jpg" alt="Bathroom Small Image" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/bath_4big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0051.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">BATHROOM AND WC PLUMBING</div>
                                                                 <div class="image-desc">Description</div>
@@ -92,12 +92,12 @@
                                                        <!-- Bathroom Image 5 Start -->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_5big.jpg" title="Bathroom Image 5 Medium">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/bath_5small.jpg" alt="Bathroom Image 5 Small" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0054.jpg" title="Bathroom Image 5 Medium">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0054.jpg" alt="Bathroom Image 5 Small" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/bath_5big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0054.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">Title #4</div>
                                                                 <div class="image-desc">Description</div>
@@ -108,12 +108,12 @@
                                                         <!-- Bathroom Image 6 Start -->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_6big.jpg" title="Bathroom Image 6 Medium Size">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/bath_6small.jpg" alt="Bathroom Image Small" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0067.jpg" title="Bathroom Image 6 Medium Size">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0067.jpg" alt="Bathroom Image Small" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/bath_6big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0067.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">BATHROOM REPAIR</div>
                                                                 <div class="image-desc">Description</div>
@@ -126,12 +126,12 @@
                                                         <!-- Bathroom Image 7 Start -->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_7big.jpg" title="Title #6">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/bath_7small.jpg" alt="Title #6" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0113.jpg" title="Title #6">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0113.jpg" alt="Title #6" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/bath_7big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0113.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">BATHROOM REPAIR REMODEL</div>
                                                                 <div class="image-desc">Description</div>
@@ -144,12 +144,12 @@
 
 
                                                         <li>
-                                                            <a class="thumb" name="bigleaf" href="http://images.bestnest.in/k1builders/gallery/bath_3big.jpg" title="Bath Room Image 3 big">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/bath_3small.jpg" alt="Bath Room Image 3 Small" />
+                                                            <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0115.jpg" title="Bath Room Image 3 big">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0115.jpg" alt="Bath Room Image 3 Small" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/bath_3big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0115.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title"><b>BATHROOM PLUMBING</b></div>
                                                                 <div class="image-desc">Description</div>
@@ -161,12 +161,12 @@
                                                         <!-- Kitchen Repair Slider 1 Start -->
 
                                                             <li>
-                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_2big.jpg" title="Title #15">
-                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_2small.jpg" alt="Title #15" />
+                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0131.jpg" title="Title #15">
+                                                                    <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0131.jpg" alt="Title #15" />
                                                                 </a>
                                                                 <div class="caption">
                                                                     <div class="download">
-                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_2big2.jpg"></a>
+                                                                        <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0131.jpg"></a>
                                                                     </div>
                                                                     <div class="image-title">KITCHENS REPAIR REFACE & REMODEL</div>
                                                                     <div class="image-desc">Description</div>
@@ -178,12 +178,12 @@
                                                             <!-- Kitchen Repair Slider 7 Start -->
 
                                                                 <li>
-                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_7big.jpg" title="Title #19">
-                                                                        <img src="http://images.bestnest.in/k1builders/gallery/kitchen_7small.jpg" alt="Title #19" />
+                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0132.jpg" title="Title #19">
+                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0132.jpg" alt="Title #19" />
                                                                     </a>
                                                                     <div class="caption">
                                                                         <div class="download">
-                                                                            <a href="http://images.bestnest.in/k1builders/gallery/kitchen_7big2.jpg"></a>
+                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0132.jpg"></a>
                                                                         </div>
                                                                         <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                         <div class="image-desc">Description</div>
@@ -195,12 +195,12 @@
                                                                 <!-- Washroom Repair 4 Slide Start-->
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 4th image medium size">
-                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 3rd image small size" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0228.jpg" title="washroom Repair 4th image medium size">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0228.jpg" alt="washroom Repair 3rd image small size" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_4big2.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0228.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title"> </div>
                                                                             <div class="image-desc">Description</div>
@@ -210,12 +210,12 @@
                                                                     <!-- Washroom Repair 4 Slide End -->
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2342/2083508720_fa906f685e.jpg" title="Title #11">
-                                                                            <img src="http://farm3.static.flickr.com/2342/2083508720_fa906f685e_s.jpg" alt="Title #11" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0343.jpg" title="Title #11">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0343.jpg" alt="Title #11" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://farm3.static.flickr.com/2342/2083508720_fa906f685e_b.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0343.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">Title #11</div>
                                                                             <div class="image-desc">Description</div>
@@ -223,12 +223,12 @@
                                                                     </li>
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba.jpg" title="Title #12">
-                                                                            <img src="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba_s.jpg" alt="Title #12" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0344.jpg" title="Title #12">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0344.jpg" alt="Title #12" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba_b.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0344.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">Title #12</div>
                                                                             <div class="image-desc">Description</div>
@@ -236,12 +236,12 @@
                                                                     </li>
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60.jpg" title="Title #13">
-                                                                            <img src="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60_s.jpg" alt="Title #13" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0345.jpg" title="Title #13">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0345.jpg" alt="Title #13" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60_b.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0345.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">Title #13</div>
                                                                             <div class="image-desc">Description</div>
@@ -249,12 +249,12 @@
                                                                     </li>
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2041/2083498578_114e117aab.jpg" title="Title #14">
-                                                                            <img src="http://farm3.static.flickr.com/2041/2083498578_114e117aab_s.jpg" alt="Title #14" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0355.jpg" title="Title #14">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0355.jpg" alt="Title #14" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://farm3.static.flickr.com/2041/2083498578_114e117aab_b.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0355.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">Title #14</div>
                                                                             <div class="image-desc">Description</div>
@@ -264,12 +264,12 @@
                                                                     <!-- Kitchen Repair Slider 1 Start -->
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_2big.jpg" title="Title #15">
-                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_2small.jpg" alt="Title #15" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0637.jpg" title="Title #15">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0637.jpg" alt="Title #15" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_2big2.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0637.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">KITCHENS REPAIR REFACE & REMODEL</div>
                                                                             <div class="image-desc">Description</div>
@@ -281,12 +281,12 @@
                                                                     <!-- Kitchen Reapir Slider 2 Start -->
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_1big.jpg" title="Title #16">
-                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_1small.jpg" alt="Title #16" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0832.jpg" title="Title #16">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0832.jpg" alt="Title #16" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_1big2.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0832.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">KITCHEN WORK</div>
                                                                             <div class="image-desc">Description</div>
@@ -298,12 +298,12 @@
                                                                     <!-- Kitchen Reapir Slider 3 Start -->
 
                                                                     <li>
-                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0841.jpg" title="kitchen 3rd Image medium">
+                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0841.jpg" alt="kitchen 3rd Image small" />
                                                                         </a>
                                                                         <div class="caption">
                                                                             <div class="download">
-                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0841.jpg"></a>
                                                                             </div>
                                                                             <div class="image-title">KITCHEN WORK</div>
                                                                             <div class="image-desc">Description</div>
@@ -315,12 +315,12 @@
                                                                     <!-- Kitchen Reapir Slider 4 Start -->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_4big.jpg" title="Kitchen 4th Image Medium">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/kitchen_4small.jpg" alt="Kitchen 4th Image" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0843.jpg" title="Kitchen 4th Image Medium">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0843.jpg" alt="Kitchen 4th Image" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/kitchen_4big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0843.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">KITCHEN WORK</div>
                                                                 <div class="image-desc">Description</div>
@@ -332,12 +332,12 @@
                                 <!-- Kitchen Reapir Slider 5 Start -->
 
                                 <li>
-                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_5big.jpg" title="Title #19">
-                                        <img src="http://images.bestnest.in/k1builders/gallery/kitchen_5small.jpg" alt="Title #19" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0856.jpg" title="Title #19">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0856.jpg" alt="Title #19" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://images.bestnest.in/k1builders/gallery/kitchen_5big2.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0856.jpg"></a>
                                         </div>
                                         <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                         <div class="image-desc">Description</div>
@@ -349,12 +349,12 @@
                                 <!-- Kitchen Repair Slider 6 Start -->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_6big.jpg" title="Title #19">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/kitchen_6small.jpg" alt="Title #19" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0857.jpg" title="Title #19">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0857.jpg" alt="Title #19" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/kitchen_6big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0857.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                 <div class="image-desc">Description</div>
@@ -366,12 +366,12 @@
                                 <!-- Kitchen Repair Slider 7 Start -->
 
                                                                                 <li>
-                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_7big.jpg" title="Title #19">
-                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/kitchen_7small.jpg" alt="Title #19" />
+                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0877.jpg" title="Title #19">
+                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0877.jpg" alt="Title #19" />
                                                                                     </a>
                                                                                     <div class="caption">
                                                                                         <div class="download">
-                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/kitchen_7big2.jpg"></a>
+                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0877.jpg"></a>
                                                                                         </div>
                                                                                         <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                         <div class="image-desc">Description</div>
@@ -383,12 +383,12 @@
                                 <!-- Kitchen Repair Slider 8 Start -->
 
                                                                                 <li>
-                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0879.jpg" title="kitchen 3rd Image medium">
+                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0879.jpg" alt="kitchen 3rd Image small" />
                                                                                     </a>
                                                                                     <div class="caption">
                                                                                         <div class="download">
-                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0879.jpg"></a>
                                                                                         </div>
                                                                                         <div class="image-title">KITCHEN WORK</div>
                                                                                         <div class="image-desc">Description</div>
@@ -401,12 +401,12 @@
                                 <!-- Washroom Repair 5 Slide Start -->
 
                                                                                 <li>
-                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 5th image medium size">
-                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0881.jpg" title="washroom Repair 5th image medium size">
+                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0881.jpg" alt="washroom Repair 4th image Small size" />
                                                                                     </a>
                                                                                     <div class="caption">
                                                                                         <div class="download">
-                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/washroom_5big2.jpg"></a>
+                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0881.jpg"></a>
                                                                                         </div>
                                                                                         <div class="image-title"></div>
                                                                                         <div class="image-desc">Description</div>
@@ -418,12 +418,12 @@
                                     <!-- Kitchen Reapir Slider 3 Start -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0882.jpg" title="kitchen 3rd Image medium">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0882.jpg" alt="kitchen 3rd Image small" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0882.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">KITCHEN WORK</div>
                                                                                             <div class="image-desc">Description</div>
@@ -434,8 +434,8 @@
                                    <!-- Kitchen Reapir Slider 3 End -->
 
                                 <li>
-                                    <a class="thumb" name="drop" href="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9.jpg" title="Title #1">
-                                        <img src="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9_s.jpg" alt="Title #1" />
+                                    <a class="thumb" name="drop" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0884.jpg" title="Title #1">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0884.jpg" alt="Title #1" />
                                     </a>
                                     <div class="caption">
                                         Any html can be placed here ...
@@ -443,12 +443,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" name="bigleaf" href="http://farm3.static.flickr.com/2093/2538168854_f75e408156.jpg" title="Title #2">
-                                        <img src="http://farm3.static.flickr.com/2093/2538168854_f75e408156_s.jpg" alt="Title #2" />
+                                    <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0885.jpg" title="Title #2">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0885.jpg" alt="Title #2" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm3.static.flickr.com/2093/2538168854_f75e408156_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0885.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #2</div>
                                         <div class="image-desc">Description</div>
@@ -456,12 +456,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" name="lizard" href="http://farm4.static.flickr.com/3153/2538167690_c812461b7b.jpg" title="Title #3">
-                                        <img src="http://farm4.static.flickr.com/3153/2538167690_c812461b7b_s.jpg" alt="Title #3" />
+                                    <a class="thumb" name="lizard" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0891.jpg" title="Title #3">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0891.jpg" alt="Title #3" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm4.static.flickr.com/3153/2538167690_c812461b7b_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0891.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #3</div>
                                         <div class="image-desc">Description</div>
@@ -469,12 +469,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" href="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18.jpg" title="Title #4">
-                                        <img src="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18_s.jpg" alt="Title #4" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0894.jpg" title="Title #4">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0894.jpg" alt="Title #4" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0894.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #4</div>
                                         <div class="image-desc">Description</div>
@@ -482,12 +482,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" href="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd.jpg" title="Title #5">
-                                        <img src="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd_s.jpg" alt="Title #5" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0896.jpg" title="Title #5">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0896.jpg" alt="Title #5" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0896.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #5</div>
                                         <div class="image-desc">Description</div>
@@ -497,12 +497,12 @@
                                 <!-- Washroom Reair 1 Slide Start-->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_1big.jpg" title="Title #6">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_1small.jpg" alt="Wash room Repair" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0898.jpg" title="Title #6">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0898.jpg" alt="Wash room Repair" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_1big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0898.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">Washroom Repair</div>
                                                                 <div class="image-desc">Description</div>
@@ -514,12 +514,12 @@
                                 <!-- Washroom Repair 2 Slide Start-->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_2big.jpg" title="washroom Repair 2nd image medium size">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_2small.jpg" alt="washroom Repair 2nd image Small size" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0899.jpg" title="washroom Repair 2nd image medium size">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0899.jpg" alt="washroom Repair 2nd image Small size" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_2big.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0899.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title"></div>
                                                                 <div class="image-desc">Description</div>
@@ -532,12 +532,12 @@
                                 <!-- Washroom Reair 3 Slide Start-->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_3big.jpg" title="washroom Repair 3rd image medium size">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_3small.jpg" alt="washroom Repair 2nd image small size" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0900.jpg" title="washroom Repair 3rd image medium size">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0900.jpg" alt="washroom Repair 2nd image small size" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_3big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0900.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title">Title #8</div>
                                                                 <div class="image-desc">Description</div>
@@ -550,12 +550,12 @@
                                 <!-- Washroom Repair 4 Slide Start-->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 4th image medium size">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 3rd image small size" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0901.jpg" title="washroom Repair 4th image medium size">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0901.jpg" alt="washroom Repair 3rd image small size" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_4big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0901.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title"> </div>
                                                                 <div class="image-desc">Description</div>
@@ -567,12 +567,12 @@
                                 <!-- Washroom Repair 5 Slide Start -->
 
                                                         <li>
-                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 5th image medium size">
-                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 4th image Small size" />
+                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0902.jpg" title="washroom Repair 5th image medium size">
+                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0902.jpg" alt="washroom Repair 4th image Small size" />
                                                             </a>
                                                             <div class="caption">
                                                                 <div class="download">
-                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_5big2.jpg"></a>
+                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0902.jpg"></a>
                                                                 </div>
                                                                 <div class="image-title"></div>
                                                                 <div class="image-desc">Description</div>
@@ -584,12 +584,12 @@
                                 <!-- Washroom Repair 6 Slide Start -->
 
                                                                                 <li>
-                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_6big.jpg" title="washroom Repair 5th image medium size">
-                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/washroom_6small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0903.jpg" title="washroom Repair 5th image medium size">
+                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0903.jpg" alt="washroom Repair 4th image Small size" />
                                                                                     </a>
                                                                                     <div class="caption">
                                                                                         <div class="download">
-                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/washroom_6big2.jpg"></a>
+                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0903.jpg"></a>
                                                                                         </div>
                                                                                         <div class="image-title"></div>
                                                                                         <div class="image-desc">Description</div>
@@ -601,12 +601,12 @@
                                 <!-- Washroom Repair 7 Slide Start -->
 
                                                                                                         <li>
-                                                                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_7big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_7small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0904.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0904.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                             </a>
                                                                                                             <div class="caption">
                                                                                                                 <div class="download">
-                                                                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_7big2.jpg"></a>
+                                                                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0904.jpg"></a>
                                                                                                                 </div>
                                                                                                                 <div class="image-title"></div>
                                                                                                                 <div class="image-desc">Description</div>
@@ -618,12 +618,12 @@
                                 <!-- Washroom Repair 8 Slide Start -->
 
                                                                                                                                 <li>
-                                                                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_8big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/washroom_8small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0905.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0905.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                     </a>
                                                                                                                                     <div class="caption">
                                                                                                                                         <div class="download">
-                                                                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/washroom_8big2.jpg"></a>
+                                                                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0905.jpg"></a>
                                                                                                                                         </div>
                                                                                                                                         <div class="image-title"></div>
                                                                                                                                         <div class="image-desc">Description</div>
@@ -648,12 +648,12 @@
                                 <!-- Floor Repair 1 Slide Start -->
 
                                                                                                                                 <li>
-                                                                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/floor_1big.jpg" title="floor Repair 5th image medium size">
-                                                                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/floor_1small.jpg" alt="floor Repair 4th image Small size" />
+                                                                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0907.jpg" title="floor Repair 5th image medium size">
+                                                                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0907.jpg" alt="floor Repair 4th image Small size" />
                                                                                                                                     </a>
                                                                                                                                     <div class="caption">
                                                                                                                                         <div class="download">
-                                                                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/floor_1big2.jpg"></a>
+                                                                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0907.jpg"></a>
                                                                                                                                         </div>
                                                                                                                                         <div class="image-title">FLOOR REPAIR</div>
                                                                                                                                         <div class="image-desc">Description</div>
@@ -663,12 +663,12 @@
                                 <!-- floor Repair 1 Slide End -->
 
                                 <li>
-                                    <a class="thumb" href="http://farm3.static.flickr.com/2014/2083478274_26775114dc.jpg" title="Title #16">
-                                        <img src="http://farm3.static.flickr.com/2014/2083478274_26775114dc_s.jpg" alt="Title #16" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0908.jpg" title="Title #16">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0908.jpg" alt="Title #16" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm3.static.flickr.com/2014/2083478274_26775114dc_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0908.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #16</div>
                                         <div class="image-desc">Description</div>
@@ -676,12 +676,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" href="http://farm3.static.flickr.com/2194/2083464534_122e849241.jpg" title="Title #17">
-                                        <img src="http://farm3.static.flickr.com/2194/2083464534_122e849241_s.jpg" alt="Title #17" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0909.jpg" title="Title #17">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0909.jpg" alt="Title #17" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm3.static.flickr.com/2194/2083464534_122e849241_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0909.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #17</div>
                                         <div class="image-desc">Description</div>
@@ -689,12 +689,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" href="http://farm4.static.flickr.com/3127/2538173236_b704e7622e.jpg" title="Title #18">
-                                        <img src="http://farm4.static.flickr.com/3127/2538173236_b704e7622e_s.jpg" alt="Title #18" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0910.jpg" title="Title #18">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0910.jpg" alt="Title #18" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm4.static.flickr.com/3127/2538173236_b704e7622e_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0910.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #18</div>
                                         <div class="image-desc">Description</div>
@@ -704,12 +704,12 @@
                                 <!-- Washroom Repair 7 Slide Start -->
 
                                                                                                                                 <li>
-                                                                                                                                    <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_7big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                        <img src="http://images.bestnest.in/k1builders/gallery/washroom_7small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0911.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0911.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                     </a>
                                                                                                                                     <div class="caption">
                                                                                                                                         <div class="download">
-                                                                                                                                            <a href="http://images.bestnest.in/k1builders/gallery/washroom_7big2.jpg"></a>
+                                                                                                                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0911.jpg"></a>
                                                                                                                                         </div>
                                                                                                                                         <div class="image-title"></div>
                                                                                                                                         <div class="image-desc">Description</div>
@@ -721,12 +721,12 @@
                                 <!-- Washroom Repair 8 Slide Start -->
 
                                                                                                                                                         <li>
-                                                                                                                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_8big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                <img src="http://images.bestnest.in/k1builders/gallery/washroom_8small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0912.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0912.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                             </a>
                                                                                                                                                             <div class="caption">
                                                                                                                                                                 <div class="download">
-                                                                                                                                                                    <a href="http://images.bestnest.in/k1builders/gallery/washroom_8big2.jpg"></a>
+                                                                                                                                                                    <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0912.jpg"></a>
                                                                                                                                                                 </div>
                                                                                                                                                                 <div class="image-title"></div>
                                                                                                                                                                 <div class="image-desc">Description</div>
@@ -736,12 +736,12 @@
                                 <!-- Washroom Repair 8 Slide End -->
 
                                 <li>
-                                    <a class="thumb" href="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34.jpg" title="Title #21">
-                                        <img src="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34_s.jpg" alt="Title #21" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0913.jpg" title="Title #21">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0913.jpg" alt="Title #21" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0913.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #21</div>
                                         <div class="image-desc">Description</div>
@@ -749,12 +749,12 @@
                                 </li>
 
                                 <li>
-                                    <a class="thumb" href="http://farm2.static.flickr.com/1116/1380178473_fc640e097a.jpg" title="Title #22">
-                                        <img src="http://farm2.static.flickr.com/1116/1380178473_fc640e097a_s.jpg" alt="Title #22" />
+                                    <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0929.jpg" title="Title #22">
+                                        <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0929.jpg" alt="Title #22" />
                                     </a>
                                     <div class="caption">
                                         <div class="download">
-                                            <a href="http://farm2.static.flickr.com/1116/1380178473_fc640e097a_b.jpg"></a>
+                                            <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0929.jpg"></a>
                                         </div>
                                         <div class="image-title">Title #22</div>
                                         <div class="image-desc">Description</div>
@@ -798,12 +798,12 @@
                                                         <ul class="thumbs noscript">
                                                             <!-- Bathroom Image 1 Start-->
                                                             <li>
-                                                                <a class="thumb" name="leaf" href="http://images.bestnest.in/k1builders/gallery/bath_1big.jpg" title="Kitchen Repairing">
-                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_1small.jpg" alt="Bathroom Repair Small" />
+                                                                <a class="thumb" name="leaf" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0077.jpg" title="Kitchen Repairing">
+                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0077.jpg" alt="Bathroom Repair Small" />
                                                                 </a>
                                                                 <div class="caption">
                                                                     <div class="download">
-                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_1big2.jpg "></a>
+                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0077.jpg"></a>
                                                                     </div>
 
 
@@ -813,12 +813,12 @@
 
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" name="bigleaf" href="http://images.bestnest.in/k1builders/gallery/bath_3big.jpg" title="Bath Room Image 3 big">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_3small.jpg" alt="Bath Room Image 3 Small" />
+                                                                                                                <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0078.jpg" title="Bath Room Image 3 big">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0078.jpg" alt="Bath Room Image 3 Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0078.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"><b>BATHROOM PLUMBING</b></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -831,12 +831,12 @@
 
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" name="lizard" href="http://images.bestnest.in/k1builders/gallery/bath_4big.jpg" title="bathroom medium Image">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_4small.jpg" alt="Bathroom Small Image" />
+                                                                                                                <a class="thumb" name="lizard" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0079.jpg" title="bathroom medium Image">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0079.jpg" alt="Bathroom Small Image" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_4big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0079.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">BATHROOM AND WC PLUMBING</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -849,12 +849,12 @@
                                                                                     <!-- Bathroom Image 5 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_5big.jpg" title="Bathroom Image 5 Medium">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_5small.jpg" alt="Bathroom Image 5 Small" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0080.jpg" title="Bathroom Image 5 Medium">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0080.jpg" alt="Bathroom Image 5 Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_5big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0080.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">Title #4</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -866,12 +866,12 @@
                                                                                     <!-- Bathroom Image 6 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_6big.jpg" title="Bathroom Image 6 Medium Size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_6small.jpg" alt="Bathroom Image Small" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0121.jpg" title="Bathroom Image 6 Medium Size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0121.jpg" alt="Bathroom Image Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_6big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0121.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">BATHROOM REPAIR</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -884,12 +884,12 @@
                                                                                     <!-- Bathroom Image 7 Start -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_7big.jpg" title="Title #6">
-                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/bath_7small.jpg" alt="Title #6" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0553.jpg" title="Title #6">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0553.jpg" alt="Title #6" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/bath_7big2.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0553.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">BATHROOM REPAIR REMODEL</div>
                                                                                             <div class="image-desc">Description</div>
@@ -902,12 +902,12 @@
 
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" name="bigleaf" href="http://images.bestnest.in/k1builders/gallery/bath_3big.jpg" title="Bath Room Image 3 big">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_3small.jpg" alt="Bath Room Image 3 Small" />
+                                                                                                                <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0554.jpg" title="Bath Room Image 3 big">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0554.jpg" alt="Bath Room Image 3 Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0554.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"><b>BATHROOM PLUMBING</b></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -919,12 +919,12 @@
                                                                                     <!-- Kitchen Repair Slider 1 Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_2big.jpg" title="Title #15">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_2small.jpg" alt="Title #15" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0556.jpg" title="Title #15">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0556.jpg" alt="Title #15" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_2big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0556.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title">KITCHENS REPAIR REFACE & REMODEL</div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -936,12 +936,12 @@
                                                                                     <!-- Kitchen Repair Slider 7 Start -->
 
                                                                                                                                                             <li>
-                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_7big.jpg" title="Title #19">
-                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_7small.jpg" alt="Title #19" />
+                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0557.jpg" title="Title #19">
+                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0557.jpg" alt="Title #19" />
                                                                                                                                                                 </a>
                                                                                                                                                                 <div class="caption">
                                                                                                                                                                     <div class="download">
-                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_7big2.jpg"></a>
+                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0557.jpg"></a>
                                                                                                                                                                     </div>
                                                                                                                                                                     <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -953,12 +953,12 @@
                                                                                     <!-- Washroom Repair 4 Slide Start-->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 4th image medium size">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 3rd image small size" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0558.jpg" title="washroom Repair 4th image medium size">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0558.jpg" alt="washroom Repair 3rd image small size" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_4big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0558.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title"> </div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -968,12 +968,12 @@
                                                                                     <!-- Washroom Repair 4 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2342/2083508720_fa906f685e.jpg" title="Title #11">
-                                                                                            <img src="http://farm3.static.flickr.com/2342/2083508720_fa906f685e_s.jpg" alt="Title #11" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0559.jpg" title="Title #11">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0559.jpg" alt="Title #11" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2342/2083508720_fa906f685e_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0559.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #11</div>
                                                                                             <div class="image-desc">Description</div>
@@ -981,12 +981,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba.jpg" title="Title #12">
-                                                                                            <img src="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba_s.jpg" alt="Title #12" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0562.jpg" title="Title #12">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0562.jpg" alt="Title #12" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0562.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #12</div>
                                                                                             <div class="image-desc">Description</div>
@@ -994,12 +994,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60.jpg" title="Title #13">
-                                                                                            <img src="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60_s.jpg" alt="Title #13" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0563.jpg" title="Title #13">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0563.jpg" alt="Title #13" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0563.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #13</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1007,12 +1007,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2041/2083498578_114e117aab.jpg" title="Title #14">
-                                                                                            <img src="http://farm3.static.flickr.com/2041/2083498578_114e117aab_s.jpg" alt="Title #14" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0566.jpg" title="Title #14">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0566.jpg" alt="Title #14" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2041/2083498578_114e117aab_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0566.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #14</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1022,12 +1022,12 @@
                                                                                     <!-- Kitchen Repair Slider 1 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_2big.jpg" title="Title #15">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_2small.jpg" alt="Title #15" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0606.jpg" title="Title #15">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0606.jpg" alt="Title #15" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_2big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0606.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHENS REPAIR REFACE & REMODEL</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1039,12 +1039,12 @@
                                                                                     <!-- Kitchen Reapir Slider 2 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_1big.jpg" title="Title #16">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_1small.jpg" alt="Title #16" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0874.jpg" title="Title #16">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0874.jpg" alt="Title #16" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_1big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0874.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN WORK</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1057,12 +1057,12 @@
                                                                                     <!-- Kitchen Reapir Slider 3 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0607.jpg" title="kitchen 3rd Image medium">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0607.jpg" alt="kitchen 3rd Image small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0607.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN WORK</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1075,12 +1075,12 @@
                                                                                     <!-- Kitchen Reapir Slider 4 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_4big.jpg" title="Kitchen 4th Image Medium">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_4small.jpg" alt="Kitchen 4th Image" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0608.jpg" title="Kitchen 4th Image Medium">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0608.jpg" alt="Kitchen 4th Image" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_4big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0608.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN WORK</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1092,12 +1092,12 @@
                                                                                     <!-- Kitchen Reapir Slider 5 Start -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_5big.jpg" title="Title #19">
-                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_5small.jpg" alt="Title #19" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0745.jpg" title="Title #19">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0745.jpg" alt="Title #19" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_5big2.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0745.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1109,12 +1109,12 @@
                                                                                     <!-- Kitchen Repair Slider 6 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_6big.jpg" title="Title #19">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_6small.jpg" alt="Title #19" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0746.jpg" title="Title #19">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0746.jpg" alt="Title #19" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_6big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0746.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1126,12 +1126,12 @@
                                                                                     <!-- Kitchen Repair Slider 7 Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_7big.jpg" title="Title #19">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_7small.jpg" alt="Title #19" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0748.jpg" title="Title #19">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0748.jpg" alt="Title #19" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_7big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0748.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1143,12 +1143,12 @@
                                                                                     <!-- Kitchen Repair Slider 8 Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0801.jpg" title="kitchen 3rd Image medium">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0801.jpg" alt="kitchen 3rd Image small" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0801.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title">KITCHEN WORK</div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1161,12 +1161,12 @@
                                                                                     <!-- Washroom Repair 5 Slide Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0802.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0802.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_5big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0802.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title"></div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1178,12 +1178,12 @@
                                                                                         <!-- Kitchen Reapir Slider 3 Start -->
 
                                                                                                                                         <li>
-                                                                                                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                                                                                <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0803.jpg" title="kitchen 3rd Image medium">
+                                                                                                                                                <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0803.jpg" alt="kitchen 3rd Image small" />
                                                                                                                                             </a>
                                                                                                                                             <div class="caption">
                                                                                                                                                 <div class="download">
-                                                                                                                                                    <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                                                                    <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0803.jpg"></a>
                                                                                                                                                 </div>
                                                                                                                                                 <div class="image-title">KITCHEN WORK</div>
                                                                                                                                                 <div class="image-desc">Description</div>
@@ -1194,8 +1194,8 @@
                                                                                        <!-- Kitchen Reapir Slider 3 End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" name="drop" href="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9.jpg" title="Title #1">
-                                                                                            <img src="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9_s.jpg" alt="Title #1" />
+                                                                                        <a class="thumb" name="drop" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0804.jpg" title="Title #1">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0804.jpg" alt="Title #1" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             Any html can be placed here ...
@@ -1203,12 +1203,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" name="bigleaf" href="http://farm3.static.flickr.com/2093/2538168854_f75e408156.jpg" title="Title #2">
-                                                                                            <img src="http://farm3.static.flickr.com/2093/2538168854_f75e408156_s.jpg" alt="Title #2" />
+                                                                                        <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0805.jpg" title="Title #2">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0805.jpg" alt="Title #2" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2093/2538168854_f75e408156_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0805.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #2</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1216,12 +1216,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" name="lizard" href="http://farm4.static.flickr.com/3153/2538167690_c812461b7b.jpg" title="Title #3">
-                                                                                            <img src="http://farm4.static.flickr.com/3153/2538167690_c812461b7b_s.jpg" alt="Title #3" />
+                                                                                        <a class="thumb" name="lizard" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0806.jpg" title="Title #3">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0806.jpg" alt="Title #3" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3153/2538167690_c812461b7b_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0806.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #3</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1229,12 +1229,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18.jpg" title="Title #4">
-                                                                                            <img src="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18_s.jpg" alt="Title #4" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0808.jpg" title="Title #4">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0808.jpg" alt="Title #4" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0808.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #4</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1242,12 +1242,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd.jpg" title="Title #5">
-                                                                                            <img src="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd_s.jpg" alt="Title #5" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0809.jpg" title="Title #5">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0809.jpg" alt="Title #5" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0809.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #5</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1257,12 +1257,12 @@
                                                                                     <!-- Washroom Reair 1 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_1big.jpg" title="Title #6">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_1small.jpg" alt="Wash room Repair" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0810.jpg" title="Title #6">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0810.jpg" alt="Wash room Repair" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_1big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0810.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">Washroom Repair</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1274,12 +1274,12 @@
                                                                                     <!-- Washroom Repair 2 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_2big.jpg" title="washroom Repair 2nd image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_2small.jpg" alt="washroom Repair 2nd image Small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0811.jpg" title="washroom Repair 2nd image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0811.jpg" alt="washroom Repair 2nd image Small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_2big.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0811.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1292,12 +1292,12 @@
                                                                                     <!-- Washroom Reair 3 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_3big.jpg" title="washroom Repair 3rd image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_3small.jpg" alt="washroom Repair 2nd image small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0812.jpg" title="washroom Repair 3rd image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0812.jpg" alt="washroom Repair 2nd image small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0812.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">Title #8</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1310,12 +1310,12 @@
                                                                                     <!-- Washroom Repair 4 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 4th image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 3rd image small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0813.jpg" title="washroom Repair 4th image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0813.jpg" alt="washroom Repair 3rd image small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_4big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0813.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"> </div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1327,12 +1327,12 @@
                                                                                     <!-- Washroom Repair 5 Slide Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0814.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0814.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_5big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0814.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1344,12 +1344,12 @@
                                                                                     <!-- Washroom Repair 6 Slide Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_6big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_6small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0815.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0815.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_6big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0815.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title"></div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1361,12 +1361,12 @@
                                                                                     <!-- Washroom Repair 7 Slide Start -->
 
                                                                                                                                                             <li>
-                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_7big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_7small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0816.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0816.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                 </a>
                                                                                                                                                                 <div class="caption">
                                                                                                                                                                     <div class="download">
-                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_7big2.jpg"></a>
+                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0816.jpg"></a>
                                                                                                                                                                     </div>
                                                                                                                                                                     <div class="image-title"></div>
                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -1378,12 +1378,12 @@
                                                                                     <!-- Washroom Repair 8 Slide Start -->
 
                                                                                                                                                                                     <li>
-                                                                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_8big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_8small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0817.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0817.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                                         </a>
                                                                                                                                                                                         <div class="caption">
                                                                                                                                                                                             <div class="download">
-                                                                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_8big2.jpg"></a>
+                                                                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0817.jpg"></a>
                                                                                                                                                                                             </div>
                                                                                                                                                                                             <div class="image-title"></div>
                                                                                                                                                                                             <div class="image-desc">Description</div>
@@ -1393,12 +1393,12 @@
                                                                                     <!-- Washroom Repair 8 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2041/2083498578_114e117aab.jpg" title="Title #14">
-                                                                                            <img src="http://farm3.static.flickr.com/2041/2083498578_114e117aab_s.jpg" alt="Title #14" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0818.jpg" title="Title #14">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0818.jpg" alt="Title #14" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2041/2083498578_114e117aab_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0818.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #14</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1408,12 +1408,12 @@
                                                                                     <!-- Floor Repair 1 Slide Start -->
 
                                                                                                                                                                                     <li>
-                                                                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/floor_1big.jpg" title="floor Repair 5th image medium size">
-                                                                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/floor_1small.jpg" alt="floor Repair 4th image Small size" />
+                                                                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0819.jpg" title="floor Repair 5th image medium size">
+                                                                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0819.jpg" alt="floor Repair 4th image Small size" />
                                                                                                                                                                                         </a>
                                                                                                                                                                                         <div class="caption">
                                                                                                                                                                                             <div class="download">
-                                                                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/floor_1big2.jpg"></a>
+                                                                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0819.jpg"></a>
                                                                                                                                                                                             </div>
                                                                                                                                                                                             <div class="image-title">FLOOR REPAIR</div>
                                                                                                                                                                                             <div class="image-desc">Description</div>
@@ -1423,12 +1423,12 @@
                                                                                     <!-- floor Repair 1 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2014/2083478274_26775114dc.jpg" title="Title #16">
-                                                                                            <img src="http://farm3.static.flickr.com/2014/2083478274_26775114dc_s.jpg" alt="Title #16" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0820.jpg" title="Title #16">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0820.jpg" alt="Title #16" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2014/2083478274_26775114dc_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0820.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #16</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1436,12 +1436,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2194/2083464534_122e849241.jpg" title="Title #17">
-                                                                                            <img src="http://farm3.static.flickr.com/2194/2083464534_122e849241_s.jpg" alt="Title #17" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0917.jpg" title="Title #17">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0917.jpg" alt="Title #17" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2194/2083464534_122e849241_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0917.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #17</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1449,12 +1449,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm4.static.flickr.com/3127/2538173236_b704e7622e.jpg" title="Title #18">
-                                                                                            <img src="http://farm4.static.flickr.com/3127/2538173236_b704e7622e_s.jpg" alt="Title #18" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0919.jpg" title="Title #18">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0919.jpg" alt="Title #18" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3127/2538173236_b704e7622e_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0919.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #18</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1464,12 +1464,12 @@
                                                                                     <!-- Washroom Repair 7 Slide Start -->
 
                                                                                                                                                                                     <li>
-                                                                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_7big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_7small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0922.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0922.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                                         </a>
                                                                                                                                                                                         <div class="caption">
                                                                                                                                                                                             <div class="download">
-                                                                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_7big2.jpg"></a>
+                                                                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0922.jpg"></a>
                                                                                                                                                                                             </div>
                                                                                                                                                                                             <div class="image-title"></div>
                                                                                                                                                                                             <div class="image-desc">Description</div>
@@ -1481,12 +1481,12 @@
                                                                                     <!-- Washroom Repair 8 Slide Start -->
 
                                                                                                                                                                                                             <li>
-                                                                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_8big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_8small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0923.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0923.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                                                                 </a>
                                                                                                                                                                                                                 <div class="caption">
                                                                                                                                                                                                                     <div class="download">
-                                                                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_8big2.jpg"></a>
+                                                                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0923.jpg"></a>
                                                                                                                                                                                                                     </div>
                                                                                                                                                                                                                     <div class="image-title"></div>
                                                                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -1496,12 +1496,12 @@
                                                                                     <!-- Washroom Repair 8 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34.jpg" title="Title #21">
-                                                                                            <img src="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34_s.jpg" alt="Title #21" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0924.jpg" title="Title #21">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/kitchen_small/IMG_0924.jpg" alt="Title #21" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0924.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #21</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1509,12 +1509,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm2.static.flickr.com/1116/1380178473_fc640e097a.jpg" title="Title #22">
-                                                                                            <img src="http://farm2.static.flickr.com/1116/1380178473_fc640e097a_s.jpg" alt="Title #22" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0930.jpg" title="Title #22">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/bathroom_small/IMG_0930.jpg" alt="Title #22" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm2.static.flickr.com/1116/1380178473_fc640e097a_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0930.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #22</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1524,12 +1524,12 @@
                                                                                     <!-- Floor Repair 1 Slide Start -->
 
                                                                                                                                                                                                             <li>
-                                                                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/floor_1big.jpg" title="floor Repair 5th image medium size">
-                                                                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/floor_1small.jpg" alt="floor Repair 4th image Small size" />
+                                                                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0872.jpg" title="floor Repair 5th image medium size">
+                                                                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0872.jpg" alt="floor Repair 4th image Small size" />
                                                                                                                                                                                                                 </a>
                                                                                                                                                                                                                 <div class="caption">
                                                                                                                                                                                                                     <div class="download">
-                                                                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/floor_1big2.jpg"></a>
+                                                                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0872.jpg"></a>
                                                                                                                                                                                                                     </div>
                                                                                                                                                                                                                     <div class="image-title">FLOOR REPAIR</div>
                                                                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -1548,7 +1548,7 @@
                                         <div class="panel panel-default">
                                           <div class="panel-heading">
                                             <h4 class="panel-title">
-                                              <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Extensions</a>
+                                              <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Living Room & Other Services</a>
                                             </h4>
                                           </div>
                                           <div id="collapse3" class="panel-collapse collapse">
@@ -1568,12 +1568,12 @@
                                                         <ul class="thumbs noscript">
                                                             <!-- Bathroom Image 1 Start-->
                                                             <li>
-                                                                <a class="thumb" name="leaf" href="http://images.bestnest.in/k1builders/gallery/bath_1big.jpg" title="Kitchen Repairing">
-                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_1small.jpg" alt="Bathroom Repair Small" />
+                                                                <a class="thumb" name="leaf" href="http://resources.bestnest.in/k1builders/images/living-room/IMG_0629.jpg" title="Kitchen Repairing">
+                                                                    <img src="http://resources.bestnest.in/k1builders/images/living-room_small/IMG_0629.jpg" alt="Bathroom Repair Small" />
                                                                 </a>
                                                                 <div class="caption">
                                                                     <div class="download">
-                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_1big2.jpg "></a>
+                                                                        <a href="http://resources.bestnest.in/k1builders/images/living-room/IMG_0629.jpg "></a>
                                                                     </div>
 
 
@@ -1583,8 +1583,8 @@
 
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" name="bigleaf" href="http://images.bestnest.in/k1builders/gallery/bath_3big.jpg" title="Bath Room Image 3 big">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_3small.jpg" alt="Bath Room Image 3 Small" />
+                                                                                                                <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/living-room/IMG_0755.jpg" title="Bath Room Image 3 big">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/living-room_small/IMG_0755.jpg" alt="Bath Room Image 3 Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
 
@@ -1599,8 +1599,8 @@
 
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" name="lizard" href="http://images.bestnest.in/k1builders/gallery/bath_4big.jpg" title="bathroom medium Image">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_4small.jpg" alt="Bathroom Small Image" />
+                                                                                                                <a class="thumb" name="lizard" href="http://resources.bestnest.in/k1builders/images/living-room/IMG_0756.jpg" title="bathroom medium Image">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/living-room_small/IMG_0756.jpg" alt="Bathroom Small Image" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
 
@@ -1615,8 +1615,8 @@
                                                                                     <!-- Bathroom Image 5 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_5big.jpg" title="Bathroom Image 5 Medium">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_5small.jpg" alt="Bathroom Image 5 Small" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0749.jpg" title="Bathroom Image 5 Medium">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0749.jpg" alt="Bathroom Image 5 Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
 
@@ -1630,8 +1630,8 @@
                                                                                     <!-- Bathroom Image 6 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_6big.jpg" title="Bathroom Image 6 Medium Size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_6small.jpg" alt="Bathroom Image Small" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0754.jpg" title="Bathroom Image 6 Medium Size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0754.jpg" alt="Bathroom Image Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
 
@@ -1646,8 +1646,8 @@
                                                                                     <!-- Bathroom Image 7 Start -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/bath_7big.jpg" title="Title #6">
-                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/bath_7small.jpg" alt="Title #6" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0757.jpg" title="Title #6">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0757.jpg" alt="Title #6" />
                                                                                         </a>
                                                                                         <div class="caption">
 
@@ -1662,12 +1662,12 @@
 
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" name="bigleaf" href="http://images.bestnest.in/k1builders/gallery/bath_3big.jpg" title="Bath Room Image 3 big">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/bath_3small.jpg" alt="Bath Room Image 3 Small" />
+                                                                                                                <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0771.jpg" title="Bath Room Image 3 big">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0771.jpg" alt="Bath Room Image 3 Small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/bath_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0771.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"><b>BATHROOM PLUMBING</b></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1679,12 +1679,12 @@
                                                                                     <!-- Kitchen Repair Slider 1 Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_2big.jpg" title="Title #15">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_2small.jpg" alt="Title #15" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0772.jpg" title="Title #15">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0772.jpg" alt="Title #15" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_2big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0772.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title">KITCHENS REPAIR REFACE & REMODEL</div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1696,12 +1696,12 @@
                                                                                     <!-- Kitchen Repair Slider 7 Start -->
 
                                                                                                                                                             <li>
-                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_7big.jpg" title="Title #19">
-                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_7small.jpg" alt="Title #19" />
+                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0859.jpg" title="Title #19">
+                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0859.jpg" alt="Title #19" />
                                                                                                                                                                 </a>
                                                                                                                                                                 <div class="caption">
                                                                                                                                                                     <div class="download">
-                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_7big2.jpg"></a>
+                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0859.jpg"></a>
                                                                                                                                                                     </div>
                                                                                                                                                                     <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -1713,12 +1713,12 @@
                                                                                     <!-- Washroom Repair 4 Slide Start-->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 4th image medium size">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 3rd image small size" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0860.jpg" title="washroom Repair 4th image medium size">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0860.jpg" alt="washroom Repair 3rd image small size" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_4big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0860.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title"> </div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1728,12 +1728,12 @@
                                                                                     <!-- Washroom Repair 4 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2342/2083508720_fa906f685e.jpg" title="Title #11">
-                                                                                            <img src="http://farm3.static.flickr.com/2342/2083508720_fa906f685e_s.jpg" alt="Title #11" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0861.jpg" title="Title #11">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0861.jpg" alt="Title #11" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2342/2083508720_fa906f685e_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0861.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #11</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1741,12 +1741,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba.jpg" title="Title #12">
-                                                                                            <img src="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba_s.jpg" alt="Title #12" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0862.jpg" title="Title #12">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0862.jpg" alt="Title #12" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2132/2082721339_4b06f6abba_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0862.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #12</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1754,12 +1754,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60.jpg" title="Title #13">
-                                                                                            <img src="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60_s.jpg" alt="Title #13" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0863.jpg" title="Title #13">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0863.jpg" alt="Title #13" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2139/2083503622_5b17f16a60_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0863.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #13</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1767,12 +1767,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2041/2083498578_114e117aab.jpg" title="Title #14">
-                                                                                            <img src="http://farm3.static.flickr.com/2041/2083498578_114e117aab_s.jpg" alt="Title #14" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0864.jpg" title="Title #14">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0864.jpg" alt="Title #14" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2041/2083498578_114e117aab_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0864.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #14</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1782,12 +1782,12 @@
                                                                                     <!-- Kitchen Repair Slider 1 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_2big.jpg" title="Title #15">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_2small.jpg" alt="Title #15" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0865.jpg" title="Title #15">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0865.jpg" alt="Title #15" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_2big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0865.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHENS REPAIR REFACE & REMODEL</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1799,12 +1799,12 @@
                                                                                     <!-- Kitchen Reapir Slider 2 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_1big.jpg" title="Title #16">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_1small.jpg" alt="Title #16" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0866.jpg" title="Title #16">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0866.jpg" alt="Title #16" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_1big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0866.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN WORK</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1817,12 +1817,12 @@
                                                                                     <!-- Kitchen Reapir Slider 3 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0867.jpg" title="kitchen 3rd Image medium">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0867.jpg" alt="kitchen 3rd Image small" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0867.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN WORK</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1835,12 +1835,12 @@
                                                                                     <!-- Kitchen Reapir Slider 4 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_4big.jpg" title="Kitchen 4th Image Medium">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_4small.jpg" alt="Kitchen 4th Image" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0868.jpg" title="Kitchen 4th Image Medium">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0868.jpg" alt="Kitchen 4th Image" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_4big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0868.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN WORK</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1852,12 +1852,12 @@
                                                                                     <!-- Kitchen Reapir Slider 5 Start -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_5big.jpg" title="Title #19">
-                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_5small.jpg" alt="Title #19" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg" title="Title #19">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0869.jpg" alt="Title #19" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_5big2.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1869,12 +1869,12 @@
                                                                                     <!-- Kitchen Repair Slider 6 Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_6big.jpg" title="Title #19">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/kitchen_6small.jpg" alt="Title #19" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0870.jpg" title="Title #19">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0870.jpg" alt="Title #19" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/kitchen_6big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0870.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -1886,12 +1886,12 @@
                                                                                     <!-- Kitchen Repair Slider 7 Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_7big.jpg" title="Title #19">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_7small.jpg" alt="Title #19" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0871.jpg" title="Title #19">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0871.jpg" alt="Title #19" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_7big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0871.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1903,12 +1903,12 @@
                                                                                     <!-- Kitchen Repair Slider 8 Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0872.jpg" title="kitchen 3rd Image medium">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0872.jpg" alt="kitchen 3rd Image small" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0872.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title">KITCHEN WORK</div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1921,12 +1921,12 @@
                                                                                     <!-- Washroom Repair 5 Slide Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0874.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0874.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_5big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0874.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title"></div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -1938,12 +1938,12 @@
                                                                                         <!-- Kitchen Reapir Slider 3 Start -->
 
                                                                                                                                         <li>
-                                                                                                                                            <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/kitchen_3big.jpg" title="kitchen 3rd Image medium">
-                                                                                                                                                <img src="http://images.bestnest.in/k1builders/gallery/kitchen_3small.jpg" alt="kitchen 3rd Image small" />
+                                                                                                                                            <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0875.jpg" title="kitchen 3rd Image medium">
+                                                                                                                                                <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0875.jpg" alt="kitchen 3rd Image small" />
                                                                                                                                             </a>
                                                                                                                                             <div class="caption">
                                                                                                                                                 <div class="download">
-                                                                                                                                                    <a href="http://images.bestnest.in/k1builders/gallery/kitchen_3big2.jpg"></a>
+                                                                                                                                                    <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0875.jpg"></a>
                                                                                                                                                 </div>
                                                                                                                                                 <div class="image-title">KITCHEN WORK</div>
                                                                                                                                                 <div class="image-desc">Description</div>
@@ -1954,8 +1954,8 @@
                                                                                        <!-- Kitchen Reapir Slider 3 End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" name="drop" href="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9.jpg" title="Title #1">
-                                                                                            <img src="http://farm3.static.flickr.com/2404/2538171134_2f77bc00d9_s.jpg" alt="Title #1" />
+                                                                                        <a class="thumb" name="drop" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0989.jpg" title="Title #1">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0989.jpg" alt="Title #1" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             Any html can be placed here ...
@@ -1963,12 +1963,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" name="bigleaf" href="http://farm3.static.flickr.com/2093/2538168854_f75e408156.jpg" title="Title #2">
-                                                                                            <img src="http://farm3.static.flickr.com/2093/2538168854_f75e408156_s.jpg" alt="Title #2" />
+                                                                                        <a class="thumb" name="bigleaf" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1015.jpg" title="Title #2">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1015.jpg" alt="Title #2" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2093/2538168854_f75e408156_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1015.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #2</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1976,12 +1976,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" name="lizard" href="http://farm4.static.flickr.com/3153/2538167690_c812461b7b.jpg" title="Title #3">
-                                                                                            <img src="http://farm4.static.flickr.com/3153/2538167690_c812461b7b_s.jpg" alt="Title #3" />
+                                                                                        <a class="thumb" name="lizard" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1016.jpg" title="Title #3">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1016.jpg" alt="Title #3" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3153/2538167690_c812461b7b_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1016.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #3</div>
                                                                                             <div class="image-desc">Description</div>
@@ -1989,12 +1989,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18.jpg" title="Title #4">
-                                                                                            <img src="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18_s.jpg" alt="Title #4" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1019.jpg" title="Title #4">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1019.jpg" alt="Title #4" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3150/2538167224_0a6075dd18_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1019.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #4</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2002,12 +2002,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd.jpg" title="Title #5">
-                                                                                            <img src="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd_s.jpg" alt="Title #5" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg" title="Title #5">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0869.jpg" alt="Title #5" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3204/2537348699_bfd38bd9fd_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #5</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2017,12 +2017,12 @@
                                                                                     <!-- Washroom Reair 1 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_1big.jpg" title="Title #6">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_1small.jpg" alt="Wash room Repair" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0872.jpg" title="Title #6">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0872.jpg" alt="Wash room Repair" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_1big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0872.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">Washroom Repair</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -2034,12 +2034,12 @@
                                                                                     <!-- Washroom Repair 2 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_2big.jpg" title="washroom Repair 2nd image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_2small.jpg" alt="washroom Repair 2nd image Small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0989.jpg" title="washroom Repair 2nd image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0989.jpg" alt="washroom Repair 2nd image Small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_2big.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0989.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -2052,12 +2052,12 @@
                                                                                     <!-- Washroom Reair 3 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_3big.jpg" title="washroom Repair 3rd image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_3small.jpg" alt="washroom Repair 2nd image small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0860.jpg" title="washroom Repair 3rd image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0860.jpg" alt="washroom Repair 2nd image small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_3big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0860.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title">Title #8</div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -2070,12 +2070,12 @@
                                                                                     <!-- Washroom Repair 4 Slide Start-->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 4th image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 3rd image small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0754.jpg" title="washroom Repair 4th image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0754.jpg" alt="washroom Repair 3rd image small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_4big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0754.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"> </div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -2087,12 +2087,12 @@
                                                                                     <!-- Washroom Repair 5 Slide Start -->
 
                                                                                                             <li>
-                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_4big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_4small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0869.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                 </a>
                                                                                                                 <div class="caption">
                                                                                                                     <div class="download">
-                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_5big2.jpg"></a>
+                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg"></a>
                                                                                                                     </div>
                                                                                                                     <div class="image-title"></div>
                                                                                                                     <div class="image-desc">Description</div>
@@ -2104,12 +2104,12 @@
                                                                                     <!-- Washroom Repair 6 Slide Start -->
 
                                                                                                                                     <li>
-                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_6big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_6small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0757.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0757.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                         </a>
                                                                                                                                         <div class="caption">
                                                                                                                                             <div class="download">
-                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_6big2.jpg"></a>
+                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0757.jpg"></a>
                                                                                                                                             </div>
                                                                                                                                             <div class="image-title"></div>
                                                                                                                                             <div class="image-desc">Description</div>
@@ -2121,12 +2121,12 @@
                                                                                     <!-- Washroom Repair 7 Slide Start -->
 
                                                                                                                                                             <li>
-                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_7big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_7small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0771.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0771.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                 </a>
                                                                                                                                                                 <div class="caption">
                                                                                                                                                                     <div class="download">
-                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_7big2.jpg"></a>
+                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0771.jpg"></a>
                                                                                                                                                                     </div>
                                                                                                                                                                     <div class="image-title"></div>
                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -2153,12 +2153,12 @@
                                                                                     <!-- Washroom Repair 8 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2041/2083498578_114e117aab.jpg" title="Title #14">
-                                                                                            <img src="http://farm3.static.flickr.com/2041/2083498578_114e117aab_s.jpg" alt="Title #14" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0772.jpg" title="Title #14">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0772.jpg" alt="Title #14" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2041/2083498578_114e117aab_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0772.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #14</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2168,12 +2168,12 @@
                                                                                     <!-- Floor Repair 1 Slide Start -->
 
                                                                                                                                                                                     <li>
-                                                                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/floor_1big.jpg" title="floor Repair 5th image medium size">
-                                                                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/floor_1small.jpg" alt="floor Repair 4th image Small size" />
+                                                                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0859.jpg" title="floor Repair 5th image medium size">
+                                                                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0859.jpg" alt="floor Repair 4th image Small size" />
                                                                                                                                                                                         </a>
                                                                                                                                                                                         <div class="caption">
                                                                                                                                                                                             <div class="download">
-                                                                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/floor_1big2.jpg"></a>
+                                                                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0859.jpg"></a>
                                                                                                                                                                                             </div>
                                                                                                                                                                                             <div class="image-title">FLOOR REPAIR</div>
                                                                                                                                                                                             <div class="image-desc">Description</div>
@@ -2183,12 +2183,12 @@
                                                                                     <!-- floor Repair 1 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2014/2083478274_26775114dc.jpg" title="Title #16">
-                                                                                            <img src="http://farm3.static.flickr.com/2014/2083478274_26775114dc_s.jpg" alt="Title #16" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1019.jpg" title="Title #16">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1019.jpg" alt="Title #16" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2014/2083478274_26775114dc_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1019.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #16</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2196,12 +2196,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2194/2083464534_122e849241.jpg" title="Title #17">
-                                                                                            <img src="http://farm3.static.flickr.com/2194/2083464534_122e849241_s.jpg" alt="Title #17" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1016.jpg" title="Title #17">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1016.jpg" alt="Title #17" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2194/2083464534_122e849241_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1016.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #17</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2209,12 +2209,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm4.static.flickr.com/3127/2538173236_b704e7622e.jpg" title="Title #18">
-                                                                                            <img src="http://farm4.static.flickr.com/3127/2538173236_b704e7622e_s.jpg" alt="Title #18" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1016.jpg" title="Title #18">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1016.jpg" alt="Title #18" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm4.static.flickr.com/3127/2538173236_b704e7622e_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1016.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #18</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2224,12 +2224,12 @@
                                                                                     <!-- Washroom Repair 7 Slide Start -->
 
                                                                                                                                                                                     <li>
-                                                                                                                                                                                        <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_7big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                                            <img src="http://images.bestnest.in/k1builders/gallery/washroom_7small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1015.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_1015.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                                         </a>
                                                                                                                                                                                         <div class="caption">
                                                                                                                                                                                             <div class="download">
-                                                                                                                                                                                                <a href="http://images.bestnest.in/k1builders/gallery/washroom_7big2.jpg"></a>
+                                                                                                                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_1015.jpg"></a>
                                                                                                                                                                                             </div>
                                                                                                                                                                                             <div class="image-title"></div>
                                                                                                                                                                                             <div class="image-desc">Description</div>
@@ -2241,12 +2241,12 @@
                                                                                     <!-- Washroom Repair 8 Slide Start -->
 
                                                                                                                                                                                                             <li>
-                                                                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/washroom_8big.jpg" title="washroom Repair 5th image medium size">
-                                                                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/washroom_8small.jpg" alt="washroom Repair 4th image Small size" />
+                                                                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0989.jpg" title="washroom Repair 5th image medium size">
+                                                                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0989.jpg" alt="washroom Repair 4th image Small size" />
                                                                                                                                                                                                                 </a>
                                                                                                                                                                                                                 <div class="caption">
                                                                                                                                                                                                                     <div class="download">
-                                                                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/washroom_8big2.jpg"></a>
+                                                                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0989.jpg"></a>
                                                                                                                                                                                                                     </div>
                                                                                                                                                                                                                     <div class="image-title"></div>
                                                                                                                                                                                                                     <div class="image-desc">Description</div>
@@ -2256,12 +2256,12 @@
                                                                                     <!-- Washroom Repair 8 Slide End -->
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34.jpg" title="Title #21">
-                                                                                            <img src="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34_s.jpg" alt="Title #21" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0861.jpg" title="Title #21">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0861.jpg" alt="Title #21" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm3.static.flickr.com/2201/1502907190_7b4a2a0e34_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0861.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #21</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2269,12 +2269,12 @@
                                                                                     </li>
 
                                                                                     <li>
-                                                                                        <a class="thumb" href="http://farm2.static.flickr.com/1116/1380178473_fc640e097a.jpg" title="Title #22">
-                                                                                            <img src="http://farm2.static.flickr.com/1116/1380178473_fc640e097a_s.jpg" alt="Title #22" />
+                                                                                        <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0875.jpg" title="Title #22">
+                                                                                            <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0875.jpg" alt="Title #22" />
                                                                                         </a>
                                                                                         <div class="caption">
                                                                                             <div class="download">
-                                                                                                <a href="http://farm2.static.flickr.com/1116/1380178473_fc640e097a_b.jpg"></a>
+                                                                                                <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0875.jpg"></a>
                                                                                             </div>
                                                                                             <div class="image-title">Title #22</div>
                                                                                             <div class="image-desc">Description</div>
@@ -2284,12 +2284,12 @@
                                                                                     <!-- Floor Repair 1 Slide Start -->
 
                                                                                                                                                                                                             <li>
-                                                                                                                                                                                                                <a class="thumb" href="http://images.bestnest.in/k1builders/gallery/floor_1big.jpg" title="floor Repair 5th image medium size">
-                                                                                                                                                                                                                    <img src="http://images.bestnest.in/k1builders/gallery/floor_1small.jpg" alt="floor Repair 4th image Small size" />
+                                                                                                                                                                                                                <a class="thumb" href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0871.jpg" title="floor Repair 5th image medium size">
+                                                                                                                                                                                                                    <img src="http://resources.bestnest.in/k1builders/images/other-services_small/IMG_0871.jpg" alt="floor Repair 4th image Small size" />
                                                                                                                                                                                                                 </a>
                                                                                                                                                                                                                 <div class="caption">
                                                                                                                                                                                                                     <div class="download">
-                                                                                                                                                                                                                        <a href="http://images.bestnest.in/k1builders/gallery/floor_1big2.jpg"></a>
+                                                                                                                                                                                                                        <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0871.jpg"></a>
                                                                                                                                                                                                                     </div>
                                                                                                                                                                                                                     <div class="image-title">FLOOR REPAIR</div>
                                                                                                                                                                                                                     <div class="image-desc">Description</div>
