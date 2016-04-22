@@ -39,7 +39,7 @@
                         <h3>Trust Us</h3>
                        <p style="font-size:12px; color:#dddedf;">K1 Builders has a proven reputation for quality and professional standards. Our insurance, qualifications and professional memberships have been independently vetted. And our work is monitored on an ongoing basis and feedback directly from our customers can be found here - </p>
                        <span style="font-size: 12px; color:#dddedf;">
-                           <a href="http://www.scconline.com/AboutUs.aspx" style="color: #717671">Read More</a>
+                           <a href="#" style="color: #717671">Read More</a>
                        </span>
                     </div>
                 </div><!--/.col-md-3-->
@@ -51,7 +51,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6" style="padding-top:20px;">
-                        Copyright &copy; 2016 <a title="Copyright K1 Builders. All right Reserved." href="index.html">K1 Builders</a>. All Rights Reserved.
+                        Copyright &copy; 2016 <a title="Copyright K1 Builders. All right Reserved." href="/">K1 Builders</a>. All Rights Reserved.
                     </div>
                     <div class="col-sm-6 text-right">
                        <a href="http://www.tridenttechnologies.co.uk" title="Trident Technologies UK" target="_blank">

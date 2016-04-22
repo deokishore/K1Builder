@@ -8,7 +8,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="resources/images/k1builder-logo.png" alt="logo" width="200" height="62"></a>
+                    <a class="navbar-brand" href="/"><img src="resources/images/k1builder-logo.png" alt="logo" width="200" height="62"></a>
                 </div>
 
                 <div class="collapse navbar-collapse navbar-right">
