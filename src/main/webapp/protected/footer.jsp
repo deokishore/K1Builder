@@ -19,8 +19,8 @@
                     <div class="widget">
                         <h3>About Us</h3>
                         <ul>
-                            <li><a href="/services">services</a></li>
-                            <li><a href="/testmonials">testimonials</a></li>
+                            <li><a href="/services">Services</a></li>
+                            <li><a href="/testmonials">Testimonials</a></li>
                         </ul>
                     </div>
                 </div><!--/.col-md-3-->

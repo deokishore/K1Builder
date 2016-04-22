@@ -1,18 +1,12 @@
 
 	<head>
-		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-		<title>Galleriffic | Thumbnail rollover effects and slideshow crossfades</title>
-
-		<!-- We only want the thunbnails to display when javascript is disabled -->
-		<link type="text/css" href="http://resources.bestnest.in/k1builders/css/galleriffic/basic.css" rel="stylesheet">
-		<link type="text/css" href="http://resources.bestnest.in/k1builders/css/galleriffic/galleriffic-2.css" rel="stylesheet">
-		<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js" type="text/javascript"></script>
-        <script src="http://resources.bestnest.in/k1builders/js/galleriffic/jquery.galleriffic.js" type="text/javascript"></script>
-        <script src="http://resources.bestnest.in/k1builders/js/galleriffic/jquery.opacityrollover.js" type="text/javascript"></script>
-        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+      <title>Galleriffic | Thumbnail rollover effects and slideshow crossfades</title>
+        <!-- We only want the thunbnails to display when javascript is disabled -->
+            <link type="text/css" href="http://resources.bestnest.in/k1builders/css/galleriffic/galleriffic-2.css" rel="stylesheet">
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.0/jquery.min.js" type="text/javascript"></script>
+            <script src="http://resources.bestnest.in/k1builders/js/galleriffic/jquery.galleriffic.js" type="text/javascript"></script>
+            <script src="http://resources.bestnest.in/k1builders/js/galleriffic/jquery.opacityrollover.js" type="text/javascript"></script>
 	</head>
-<body>
 
 <section id="portfolio">
             <div class="container">
@@ -2463,5 +2457,3 @@
 			$('.collapse').collapse('hide')
 
 	    	</script>
-
-	</body>

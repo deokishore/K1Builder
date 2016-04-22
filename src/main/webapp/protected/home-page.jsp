@@ -12,7 +12,6 @@
 			$().UItoTop({ easingType: 'easeOutQuart' });
 		})
     </script>
-
 </head>
 
 
@@ -24,7 +23,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-10 col-sm-6">
-                     <article class="grid_24">
+                     <article class="grid_24" style="position:relative; left:120px;">
                         <div class="gallery1 scroll-pane horizontal-only">
                             <div class="box">
                                 <div class="wrapper">
