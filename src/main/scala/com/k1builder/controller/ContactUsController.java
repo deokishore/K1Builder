@@ -21,10 +21,10 @@ public class ContactUsController {
 
 	@Autowired
 	ClientInformationService clientInformationService;
-	
+
 	@Autowired
 	private EmailService emailService;
-	
+
 
 	@RequestMapping(value = "/contacts", method = RequestMethod.GET)
 	public ModelAndView contacts(@RequestParam(value="source", required=false) String source) {
@@ -37,16 +37,16 @@ public class ContactUsController {
 	@RequestMapping(value = "/contactUsSave", method = RequestMethod.POST)
 	public ModelAndView contactUsSave(
 			@ModelAttribute("clientInformationForm") ClientInformationForm clientInformationForm) throws MessagingException {
-		
+
 		clientInformationService.saveClientInformation(clientInformationForm);
 		this.emailService.sendClientEMail(clientInformationForm);
 		ModelAndView mv = new ModelAndView("contacts", "contactUsForm", clientInformationForm);
 		return mv;
 	}
-	
+
 	@RequestMapping(value = "/contactUsSaveForSiteVisit", method = RequestMethod.POST)
 	public void contactUsSaveForSiteVisit(
-			@ModelAttribute("clientInformationForm") ClientInformationForm clientInformationForm) throws MessagingException {		
+			@ModelAttribute("clientInformationForm") ClientInformationForm clientInformationForm) throws MessagingException {
 		clientInformationService.saveClientInformation(clientInformationForm);
 		this.emailService.sendClientEMail(clientInformationForm);
 	}

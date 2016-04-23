@@ -40,7 +40,7 @@
     </repositories>
 
     <build>
-        <finalName>k1builder</finalName>
+        <finalName>ROOT</finalName>
         <sourceDirectory>src/main/scala</sourceDirectory>
 
         <plugins>

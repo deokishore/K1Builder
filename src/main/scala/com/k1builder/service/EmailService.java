@@ -27,15 +27,15 @@ import com.k1builder.form.ClientInformationForm;
 
 @Service
 public class EmailService {
-	
+
 	private Logger logger = Logger.getLogger(EmailService.class);
-	
+
 	@Autowired
 	private JavaMailSender mailSender;
 
 	@Autowired
 	private TemplateEngine templateEngine;
-	
+
 	private static List<String> clientInfoList = Arrays.asList("deokishore@yahoo.com", "info@k1builders.co.uk", "kaloyanmishev@gmail.com", "prajapatiankit48@gmail.com");
 
 	private static int counter = 1;
@@ -78,7 +78,7 @@ public class EmailService {
 	 */
 	public void sendClientEMail(final ClientInformationForm clientInformationForm)
 			throws MessagingException {
-		
+
 		logger.info("Sending sendClientEMail ");
 
 		// Prepare the evaluation context
@@ -98,10 +98,10 @@ public class EmailService {
 		ctx.setVariable("phoneNumber", mobileNumber + " : ");
 		ctx.setVariable("clientMessage", clientInformationForm.getMessage() == null ? " No Messag " : clientInformationForm.getMessage());
 		ctx.setVariable("services", services);
-		
+
 		// Create the HTML body using Thymeleaf
 		logger.info("Creating the HTML body using Thymeleaf ");
-		final String htmlContent = templateEngine.process("email-for-tridentteam.html", ctx);
+		final String htmlContent = templateEngine.process("email-for-k1builderteam.html", ctx);
 		MimeMessagePreparator[] preparators = new MimeMessagePreparator[clientInfoList.size()];
 		int i = 0;
 		for (final String k1BuildersUserEmail : clientInfoList) {
@@ -148,16 +148,16 @@ public class EmailService {
 			this.mailSender.send(mimeMessage);
 		}
 
-		
+
 	}
-	
-	
+
+
 	/*
 	 * Send HTML mail (simple)
 	 */
 	public void sendSimpleMail(final String fromEmailText,
-			final String recipientName, final String recipientEmail,
-			final String subject, final Locale locale)
+							   final String recipientName, final String recipientEmail,
+							   final String subject, final Locale locale)
 			throws MessagingException {
 
 		// Prepare the evaluation context
@@ -193,10 +193,10 @@ public class EmailService {
 	 * Send HTML mail with attachment.
 	 */
 	public void sendMailWithAttachment(final String fromEmailText,
-			final String recipientName, final String recipientEmail,
-			final String subject, final String attachmentFileName,
-			final byte[] attachmentBytes, final String attachmentContentType,
-			final Locale locale) throws MessagingException {
+									   final String recipientName, final String recipientEmail,
+									   final String subject, final String attachmentFileName,
+									   final byte[] attachmentBytes, final String attachmentContentType,
+									   final Locale locale) throws MessagingException {
 
 		// Prepare the evaluation context
 		final Context ctx = new Context(locale);
@@ -237,10 +237,10 @@ public class EmailService {
 	 * Send HTML mail with inline image
 	 */
 	public void sendMailWithInline(final String fromEmailText,
-			final String recipientName, final String recipientEmail,
-			final String subject, final String imageResourceName,
-			final byte[] imageBytes, final String imageContentType,
-			final Locale locale) throws MessagingException {
+								   final String recipientName, final String recipientEmail,
+								   final String subject, final String imageResourceName,
+								   final byte[] imageBytes, final String imageContentType,
+								   final Locale locale) throws MessagingException {
 
 		// Prepare the evaluation context
 		final Context ctx = new Context(locale);
@@ -248,10 +248,10 @@ public class EmailService {
 		ctx.setVariable("subscriptionDate", new Date());
 		ctx.setVariable("hobbies", Arrays.asList("Cinema", "Sports", "Music"));
 		ctx.setVariable("imageResourceName", imageResourceName); // so that we
-																	// can
-																	// reference
-																	// it from
-																	// HTML
+		// can
+		// reference
+		// it from
+		// HTML
 
 		// Prepare message using a Spring helper
 		final MimeMessage mimeMessage = this.mailSender.createMimeMessage();
@@ -287,10 +287,10 @@ public class EmailService {
 	}
 
 	public void sendBulkMailWithInline(final String fromEmailText,
-			final String subject, final String imageResourceName,
-			final byte[] imageBytes, final String imageContentType,
-			final Locale locale,
-			final Collection<ClientInformation> clientInformation) throws Exception {
+									   final String subject, final String imageResourceName,
+									   final byte[] imageBytes, final String imageContentType,
+									   final Locale locale,
+									   final Collection<ClientInformation> clientInformation) throws Exception {
 
 		MimeMessagePreparator[] preparators = new MimeMessagePreparator[clientInformation.size()];
 		int i = 0;
@@ -298,7 +298,7 @@ public class EmailService {
 		final Context ctx = new Context(locale);
 
 		ctx.setVariable("subscriptionDate", new Date());
-		ctx.setVariable("imageResourceName", imageResourceName); 
+		ctx.setVariable("imageResourceName", imageResourceName);
 
 		final String htmlContent = this.templateEngine.process(
 				"email-inlineimage.html", ctx);
@@ -321,31 +321,31 @@ public class EmailService {
 				}
 			};
 		}
-		
+
 		List<MimeMessagePreparator[]> list = splitArray(preparators, 5);
 		logger.info("Sending Tota Email " + list.size());
-		
+
 		try {
-			
+
 			for (MimeMessagePreparator[] mimeMessagePreparators : list) {
 				this.mailSender.send(mimeMessagePreparators);
 				logger.info("Sent a batch of 20 ");
 			}
-			
+
 		} catch(Exception ex) {
 			logger.error("Error while sending mails ", ex);
 			throw new Exception("Error while sending mails ", ex);
 		}
 	}
-	
+
 	public void sendBulkMailFromExcelWithInline(final String fromEmailText,
-			final String subject, final String imageResourceName,
-			final byte[] imageBytes, final String imageContentType,
-			final Locale locale,
-			final List<ClientInformation> clientInfoList) throws Exception {
-		
+												final String subject, final String imageResourceName,
+												final byte[] imageBytes, final String imageContentType,
+												final Locale locale,
+												final List<ClientInformation> clientInfoList) throws Exception {
+
 		logger.info(" Sending Bulk email form an excel file " );
-		
+
 		MimeMessagePreparator[] preparators = new MimeMessagePreparator[clientInfoList
 				.size()];
 		int i = 0;
@@ -353,7 +353,7 @@ public class EmailService {
 		final Context ctx = new Context(locale);
 
 		ctx.setVariable("subscriptionDate", new Date());
-		ctx.setVariable("imageResourceName", imageResourceName); 
+		ctx.setVariable("imageResourceName", imageResourceName);
 
 		final String htmlContent = this.templateEngine.process("email-inlineimage.html", ctx);
 		// Add the inline image, referenced from the HTML code as
@@ -364,25 +364,25 @@ public class EmailService {
 			preparators[i++] = new MimeMessagePreparator() {
 				public void prepare(MimeMessage mimeMessage) throws Exception {
 					try {
-					final MimeMessageHelper message = new MimeMessageHelper(mimeMessage, true, "UTF-8");
-					ctx.setVariable("name", user.getFirstName());
-					message.setSubject(subject);
-					message.setTo(user.getEmail().toLowerCase().trim());
-					message.setFrom("customer.care@bestnest.in", fromEmailText);
-					message.setText(htmlContent, true /* isHtml */);
-					message.addInline(imageResourceName, imageSource, imageContentType);
+						final MimeMessageHelper message = new MimeMessageHelper(mimeMessage, true, "UTF-8");
+						ctx.setVariable("name", user.getFirstName());
+						message.setSubject(subject);
+						message.setTo(user.getEmail().toLowerCase().trim());
+						message.setFrom("customer.care@bestnest.in", fromEmailText);
+						message.setText(htmlContent, true /* isHtml */);
+						message.addInline(imageResourceName, imageSource, imageContentType);
 					}catch (Exception ex) {
 						logger.error("Error while preparing  MimeMessageHelper ", ex);
 					}
 				}
 			};
 		}
-		
+
 		int batchSize = 20 ;
 		List<MimeMessagePreparator[]> list = splitArray(preparators, batchSize);
-		
+
 		logger.info("Sending Tota Email " + list.size());
-		
+
 		for (MimeMessagePreparator[] mimeMessagePreparators : list) {
 			try {
 				this.mailSender.send(mimeMessagePreparators);
@@ -392,10 +392,10 @@ public class EmailService {
 				logger.error("Error email list: " + mimeMessagePreparators);
 			}
 		}
-		
+
 		logger.info(" Sending Bulk email was successful " );
 	}
-	
+
 	public <T extends Object> List<T[]> splitArray(T[] array, int max) {
 
 		int x = array.length / max;

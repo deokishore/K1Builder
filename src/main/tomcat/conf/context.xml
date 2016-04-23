@@ -2,9 +2,10 @@
 <Context>
         <WatchedResource>WEB-INF/web.xml</WatchedResource>
 
+
         <Resource
                 factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
-                name="jdbc/tamaarDataSource"
+                name="jdbc/k1BuilderDataSource"
                 auth="Container"
                 type="javax.sql.DataSource"
                 initialSize="1"
@@ -21,7 +22,7 @@
                 numTestsPerEvictionRun="5"
                 timeBetweenEvictionRunsMillis="30000"
                 minEvictableIdleTimeMillis="60000"
-                url="jdbc:mysql://localhost:3306/ozuygqof_k1builder" />
+                url="jdbc:mysql://localhost:3306/ozuygqof_k1builder?autoReconnect=true" />
 
 
 </Context>

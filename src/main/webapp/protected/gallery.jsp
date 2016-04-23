@@ -179,7 +179,7 @@
                                                                         <div class="download">
                                                                             <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0132.jpg"></a>
                                                                         </div>
-                                                                        <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                        <div class="image-title"></div>
                                                                         <div class="image-desc">Description</div>
                                                                     </div>
                                                                 </li>
@@ -333,7 +333,7 @@
                                         <div class="download">
                                             <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0856.jpg"></a>
                                         </div>
-                                        <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                        <div class="image-title"></div>
                                         <div class="image-desc">Description</div>
                                     </div>
                                 </li>
@@ -350,7 +350,7 @@
                                                                 <div class="download">
                                                                     <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0857.jpg"></a>
                                                                 </div>
-                                                                <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                <div class="image-title"></div>
                                                                 <div class="image-desc">Description</div>
                                                             </div>
                                                         </li>
@@ -367,7 +367,7 @@
                                                                                         <div class="download">
                                                                                             <a href="http://resources.bestnest.in/k1builders/images/bathroom/IMG_0877.jpg"></a>
                                                                                         </div>
-                                                                                        <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                        <div class="image-title"></div>
                                                                                         <div class="image-desc">Description</div>
                                                                                     </div>
                                                                                 </li>
@@ -937,7 +937,7 @@
                                                                                                                                                                     <div class="download">
                                                                                                                                                                         <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0557.jpg"></a>
                                                                                                                                                                     </div>
-                                                                                                                                                                    <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                                                                                                    <div class="image-title"></div>
                                                                                                                                                                     <div class="image-desc">Description</div>
                                                                                                                                                                 </div>
                                                                                                                                                             </li>
@@ -1093,7 +1093,7 @@
                                                                                             <div class="download">
                                                                                                 <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0745.jpg"></a>
                                                                                             </div>
-                                                                                            <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                            <div class="image-title"></div>
                                                                                             <div class="image-desc">Description</div>
                                                                                         </div>
                                                                                     </li>
@@ -1110,7 +1110,7 @@
                                                                                                                     <div class="download">
                                                                                                                         <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0746.jpg"></a>
                                                                                                                     </div>
-                                                                                                                    <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                                                    <div class="image-title"></div>
                                                                                                                     <div class="image-desc">Description</div>
                                                                                                                 </div>
                                                                                                             </li>
@@ -1127,7 +1127,7 @@
                                                                                                                                             <div class="download">
                                                                                                                                                 <a href="http://resources.bestnest.in/k1builders/images/kitchen/IMG_0748.jpg"></a>
                                                                                                                                             </div>
-                                                                                                                                            <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                                                                            <div class="image-title"></div>
                                                                                                                                             <div class="image-desc">Description</div>
                                                                                                                                         </div>
                                                                                                                                     </li>
@@ -1697,7 +1697,7 @@
                                                                                                                                                                     <div class="download">
                                                                                                                                                                         <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0859.jpg"></a>
                                                                                                                                                                     </div>
-                                                                                                                                                                    <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                                                                                                    <div class="image-title"></div>
                                                                                                                                                                     <div class="image-desc">Description</div>
                                                                                                                                                                 </div>
                                                                                                                                                             </li>
@@ -1853,7 +1853,7 @@
                                                                                             <div class="download">
                                                                                                 <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0869.jpg"></a>
                                                                                             </div>
-                                                                                            <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                            <div class="image-title"></div>
                                                                                             <div class="image-desc">Description</div>
                                                                                         </div>
                                                                                     </li>
@@ -1870,7 +1870,7 @@
                                                                                                                     <div class="download">
                                                                                                                         <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0870.jpg"></a>
                                                                                                                     </div>
-                                                                                                                    <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                                                    <div class="image-title"></div>
                                                                                                                     <div class="image-desc">Description</div>
                                                                                                                 </div>
                                                                                                             </li>
@@ -1887,7 +1887,7 @@
                                                                                                                                             <div class="download">
                                                                                                                                                 <a href="http://resources.bestnest.in/k1builders/images/other-services/IMG_0871.jpg"></a>
                                                                                                                                             </div>
-                                                                                                                                            <div class="image-title">KITCHEN REPAIR AND REMODEL</div>
+                                                                                                                                            <div class="image-title"></div>
                                                                                                                                             <div class="image-desc">Description</div>
                                                                                                                                         </div>
                                                                                                                                     </li>
