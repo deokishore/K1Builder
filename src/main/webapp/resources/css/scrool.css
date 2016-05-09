@@ -3,7 +3,7 @@
 	overflow: hidden;
 	position: relative;
 	width:951px;
-	height:461px !important;
+
 }
 
 .jspPane
@@ -49,7 +49,7 @@
 
 .jspTrack
 {
-	background:#dfdfdf;
+
 	height:6px !important;
 	position: relative;
 	margin-top:0px;
